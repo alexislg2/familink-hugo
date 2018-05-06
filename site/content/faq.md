@@ -11,12 +11,12 @@ Bienvenue sur la FAQ de Familink !
 
 Non. Familink est vendu avec une carte SIM internationale multi-opérateurs déjà installée et paramétrée. Il n’y a rien à faire, le cadre est déjà prêt à l’emploi dès son premier allumage.
 
-![](https://dr8rbg9qg9auo.cloudfront.net/wp-content/uploads/2016/10/familink-sim-300x199.png =300x199)
+![](https://dr8rbg9qg9auo.cloudfront.net/wp-content/uploads/2016/10/familink-sim-300x199.png)
 
 ## Peut-on être plusieurs à partager des photos sur un cadre ?
 
 Bien sûr ! Familink est fait pour toute la famille. Lorsque vous achetez un cadre, vous pouvez inviter vos amis, cousins, frères et soeurs à partager des photos sur le cadre. Il vous suffit pour cela de saisir leur adresse Email :  
-[![](https://dr8rbg9qg9auo.cloudfront.net/wp-content/uploads/2017/02/Screenshot-from-2017-02-15-11-34-35.png =521x347)](https://dr8rbg9qg9auo.cloudfront.net/wp-content/uploads/2017/02/Screenshot-from-2017-02-15-11-34-35.png)
+![](https://dr8rbg9qg9auo.cloudfront.net/wp-content/uploads/2017/02/Screenshot-from-2017-02-15-11-34-35.png)
 
 Ils pourront alors envoyer eux aussi des photos.
 
