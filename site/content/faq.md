@@ -7,38 +7,33 @@ type = "page"
 +++
 Bienvenue sur la FAQ de Familink !
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+## Faut-il acheter une carte SIM ?
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Non. Familink est vendu avec une carte SIM internationale multi-opérateurs déjà installée et paramétrée. Il n’y a rien à faire, le cadre est déjà prêt à l’emploi dès son premier allumage.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+![](https://dr8rbg9qg9auo.cloudfront.net/wp-content/uploads/2016/10/familink-sim-300x199.png =300x199)
 
-## 2. WHAT ARE THE POSTAL RATES?
+## Peut-on être plusieurs à partager des photos sur un cadre ?
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+Bien sûr ! Familink est fait pour toute la famille. Lorsque vous achetez un cadre, vous pouvez inviter vos amis, cousins, frères et soeurs à partager des photos sur le cadre. Il vous suffit pour cela de saisir leur adresse Email :  
+[![](https://dr8rbg9qg9auo.cloudfront.net/wp-content/uploads/2017/02/Screenshot-from-2017-02-15-11-34-35.png =521x347)](https://dr8rbg9qg9auo.cloudfront.net/wp-content/uploads/2017/02/Screenshot-from-2017-02-15-11-34-35.png)
 
-## 3. DO YOU SEND OVERSEAS?
+Ils pourront alors envoyer eux aussi des photos.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+## Faut-il du Wi-Fi pour fonctionner ?
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+Non. Familink peut se connecter tout seul à Internet grâce à sa carte SIM déjà incluse et paramétrée. Il n’est donc pas nécessaire d’avoir un abonnement à Internet pour fonctionner.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Il est toutefois possible de le connecter en Wi-Fi si vous le préférez.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+## Y a-t-il un nombre maximum de photos que l’on peut envoyer ?
 
-## 5. ANOTHER IMPORTANT QUESTION
+La carte Sim permet de recevoir 10 photos par jour si le cadre photo est connecté en 3G, et un nombre illimité s’il est connecté en Wi-Fi. Nous vous invitons à envoyer des photos le plus régulièrement possible plutôt que beaucoup d’un seul coup.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Les cadres photos Familink ont une capacité de stockage qui permet de conserver au moins 10 000 photos.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+## Un abonnement est-il nécessaire ?
 
----
+Oui et Non. Familink est vendu avec déjà un an d’abonnement au service en illimité. Le décompte commence au premier allumage du cadre.
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+Après un an d’utilisation, il faut soit payer 1,66€ TTC par mois pour continuer à profiter du service 3G, soit paramétrer le cadre pour fonctionner en Wi-Fi. Le service est alors entièrement gratuit.
