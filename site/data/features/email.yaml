@@ -1,4 +1,6 @@
+---
 weight: 3
-name: "Email"
-icon: "fa fa-envelope-o"
-description: "Vous ne voulez pas télécharger d'application ou créer de compte ? Avec Familink, envoyez des photos sur le cadre photo de vos parents par courriel."
+name: Email
+icon: fa fa-envelope-o
+description: Vous ne voulez pas télécharger d'application ou créer de compte ? Avec
+  Familink, envoyez des photos sur le cadre photo de vos parents par courriel.

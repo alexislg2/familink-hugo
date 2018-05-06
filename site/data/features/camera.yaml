@@ -1,4 +1,6 @@
+---
 weight: 10
-name: "Envoyez vos photos !"
-icon: "fa fa-camera-retro"
-description: "Envoyez vos photos depuis la gallerie de votre téléphone, en en prenant une nouvelle, ou depuis votre ordinateur grâce au site dédié."
+name: Envoyez vos photos !
+icon: fa fa-camera-retro
+description: Envoyez vos photos depuis la gallerie de votre téléphone, en en prenant
+  une nouvelle, ou depuis votre ordinateur grâce au site dédié.

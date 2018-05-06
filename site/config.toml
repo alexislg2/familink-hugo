@@ -1,105 +1,66 @@
 baseurl = "/"
-languageCode = "fr-FR"
 defaultContentLanguage = "fr"
-title = "Familink"
-theme = "hugo-universal-theme"
-# Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
-# Define how many posts should appear on a site
+languageCode = "fr-FR"
 paginate = 10
-
+theme = "hugo-universal-theme"
+title = "Familink"
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 4
+[[menu.main]]
+identifier = "faq"
+name = "FAQ"
+url = "/faq/"
+weight = 3
+[[menu.main]]
+name = "Blog"
+url = "/blog/"
+weight = 2
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.topbar]]
+name = "Email"
+pre = "<i class='fa fa-2x fa-envelope'></i>"
+url = "mailto:your@email.com"
+weight = 4
+[[menu.topbar]]
+name = "Twitter"
+pre = "<i class='fa fa-2x fa-twitter'></i>"
+url = "http://twitter.com"
+weight = 3
+[[menu.topbar]]
+name = "Facebook"
+pre = "<i class='fa fa-2x fa-facebook'></i>"
+url = "http://facebook.com"
+weight = 2
+[[menu.topbar]]
+name = "GitHub"
+pre = "<i class='fa fa-2x fa-github'></i>"
+url = "https://github.com/devcows/hugo-universal-theme"
+weight = 1
 [params]
-	# To provide some metadata for search engines feel free to add a few
-    # information about you and your website.
-	name = "Your name"
-	description = "Describe your website"
-
-	style = "green"
-	email = "alexis@asweshare.com"
-	about_us = "<p>Familink est une marque de AsWeShare</p>"
-    copyright = "Copyright (c) 2018."
-    logo = "img/banner2.png"
-    address = """<p><strong>369 Sente Sainte Venise</strong>
-        <br>76230 Bois Guillaume
-        <br>
-        <strong>FRANCE</strong>
-      </p>
-      """
-
-	[params.topbar]
-	    enable = true
-	    text = "Familink"
-
-    [params.familink_description]
-        enable = false
-
-	[params.carousel]
-	    enable = true
-	    # All carousel items are defined in their own files. You can find example items
-	    # at 'exampleSite/data/carousel'.
-	    # For more informtion take a look at the README.
-
-	[params.features]
-	    enable = true
-	    # All features are defined in their own files. You can find example items
-	    # at 'exampleSite/data/features'.
-	    # For more informtion take a look at the README.
-
-	[params.testimonials]
-	    enable = true
-	    # All testimonials are defined in their own files. You can find example items
-	    # at 'exampleSite/data/testimonials'.
-	    # For more informtion take a look at the README.
-	    title = "Témoignages"
-	    subtitle = ""
-
-[menu]
-
-# Main menu
-
-[[menu.main]]
-    name = "Home"
-    url  = "/"
-    weight = 1
-
-[[menu.main]]
-    name = "Blog"
-    url  = "/blog/"
-    weight = 2
-
-[[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
-    weight = 3
-
-[[menu.main]]
-    name = "Contact"
-    url  = "/contact/"
-    weight = 4
-
-# Top bar social links menu
-
-[[menu.topbar]]
-    weight = 1
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fa fa-2x fa-github'></i>"
-
-[[menu.topbar]]
-    weight = 2
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fa fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 3
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fa fa-2x fa-twitter'></i>"
-
-[[menu.topbar]]
-    weight = 4
-    name = "Email"
-    url = "mailto:your@email.com"
-    pre = "<i class='fa fa-2x fa-envelope'></i>"
+about_us = "<p>Familink est une marque de AsWeShare</p>"
+address = "<p><strong>369 Sente Sainte Venise</strong>\n        <br>76230 Bois Guillaume\n        <br>\n        <strong>FRANCE</strong>\n      </p>\n      "
+copyright = "Copyright (c) 2018."
+description = "Describe your website"
+email = "alexis@asweshare.com"
+logo = "img/banner2.png"
+name = "Your name"
+style = "green"
+[params.carousel]
+enable = true
+[params.familink_description]
+enable = false
+[params.features]
+enable = true
+[params.testimonials]
+enable = true
+subtitle = ""
+title = "Témoignages"
+[params.topbar]
+enable = true
+text = "Familink"

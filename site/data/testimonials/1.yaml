@@ -1,4 +1,6 @@
-text: "J’adore Familink ! Mes grands-parents n’ont pas Internet donc c’est très pratique. On peut envoyer une photo depuis son smartphone et ils la reçoivent instantanément."
-name: "Rafaëlle Cohen"
-position: "Beta testeuse"
-avatar: "img/testimonials/rafoue.jpg"
+---
+text: J’adore Familink ! Mes grands-parents n’ont pas Internet donc c’est très pratique.
+  On peut envoyer une photo depuis son smartphone et ils la reçoivent instantanément.
+name: Rafaëlle Cohen
+position: Beta testeuse
+avatar: img/testimonials/rafoue.jpg
