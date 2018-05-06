@@ -5,7 +5,6 @@ title = "FAQ"
 type = "page"
 
 +++
-
 {{% faq_showhide %}}
 
 Bienvenue sur la FAQ de Familink !
