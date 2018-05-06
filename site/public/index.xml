@@ -37,8 +37,8 @@ Files StackEdit stores your files in your browser, which means all your files ar
       
       <guid>/faq/</guid>
       <description>$(document).ready(function(){ $(&#39;h2&#39;).css(&#39;cursor&#39;,&#39;pointer&#39;); $(&#34;h2&#34;).nextUntil(&#34;h2&#34;).slideToggle(); $(&#34;h2&#34;).click(function() {$(this).nextUntil(&#34;h2&#34;).slideToggle();}); });  Bienvenue sur la FAQ de Familink !
-+ Faut-il acheter une carte SIM ? Non. Familink est vendu avec une carte SIM internationale multi-opérateurs déjà installée et paramétrée. Il n’y a rien à faire, le cadre est déjà prêt à l’emploi dès son premier allumage.
-+ Peut-on être plusieurs à partager des photos sur un cadre ? Bien sûr ! Familink est fait pour toute la famille.</description>
+Faut-il acheter une carte SIM ? Non. Familink est vendu avec une carte SIM internationale multi-opérateurs déjà installée et paramétrée. Il n’y a rien à faire, le cadre est déjà prêt à l’emploi dès son premier allumage.
+Peut-on être plusieurs à partager des photos sur un cadre ? Bien sûr ! Familink est fait pour toute la famille.</description>
     </item>
     
   </channel>
