@@ -26,7 +26,6 @@ paginate = 10
       </p>
       """
 
-
 	[params.topbar]
 	    enable = true
 	    text = "Familink"
