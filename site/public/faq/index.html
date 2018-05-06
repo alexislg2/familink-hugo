@@ -66,6 +66,25 @@
 
   <body>
 
+    
+<script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
+
+<script src="//maps.googleapis.com/maps/api/js?v=3.exp"></script>
+
+<script src="/js/hpneo.gmaps.js"></script>
+<script src="/js/gmaps.init.js"></script>
+<script src="/js/front.js"></script>
+
+
+<script src="/js/owl.carousel.min.js"></script>
+
+
     <div id="all">
 
         <header>
@@ -171,34 +190,43 @@
                         <div>
                           
 
+<script>
+    $(document).ready(function(){
+        $('h2').css('cursor','pointer');
+        $("h2").nextUntil("h2").slideToggle();
+        $("h2").click(function() {$(this).nextUntil("h2").slideToggle();});
+    });
+    
+</script>
+
 <p>Bienvenue sur la FAQ de Familink !</p>
 
-<h2 id="faut-il-acheter-une-carte-sim">Faut-il acheter une carte SIM ?</h2>
+<h2 id="faut-il-acheter-une-carte-sim">+ Faut-il acheter une carte SIM ?</h2>
 
 <p>Non. Familink est vendu avec une carte SIM internationale multi-opérateurs déjà installée et paramétrée. Il n’y a rien à faire, le cadre est déjà prêt à l’emploi dès son premier allumage.</p>
 
-<p><img src="https://dr8rbg9qg9auo.cloudfront.net/wp-content/uploads/2016/10/familink-sim-300x199.png =300x199" alt="" /></p>
+<p><img src="https://dr8rbg9qg9auo.cloudfront.net/wp-content/uploads/2016/10/familink-sim-300x199.png" alt="" /></p>
 
-<h2 id="peut-on-être-plusieurs-à-partager-des-photos-sur-un-cadre">Peut-on être plusieurs à partager des photos sur un cadre ?</h2>
+<h2 id="peut-on-être-plusieurs-à-partager-des-photos-sur-un-cadre">+ Peut-on être plusieurs à partager des photos sur un cadre ?</h2>
 
-<p>Bien sûr ! Familink est fait pour toute la famille. Lorsque vous achetez un cadre, vous pouvez inviter vos amis, cousins, frères et soeurs à partager des photos sur le cadre. Il vous suffit pour cela de saisir leur adresse Email :<br />
-<a href="https://dr8rbg9qg9auo.cloudfront.net/wp-content/uploads/2017/02/Screenshot-from-2017-02-15-11-34-35.png"><img src="https://dr8rbg9qg9auo.cloudfront.net/wp-content/uploads/2017/02/Screenshot-from-2017-02-15-11-34-35.png =521x347" alt="" /></a></p>
+<p>Bien sûr ! Familink est fait pour toute la famille. Lorsque vous achetez un cadre, vous pouvez inviter vos amis, cousins, frères et soeurs à partager des photos sur le cadre. Il vous suffit pour cela de saisir leur adresse Email :
+<img src="https://dr8rbg9qg9auo.cloudfront.net/wp-content/uploads/2017/02/Screenshot-from-2017-02-15-11-34-35.png" alt="" /></p>
 
 <p>Ils pourront alors envoyer eux aussi des photos.</p>
 
-<h2 id="faut-il-du-wi-fi-pour-fonctionner">Faut-il du Wi-Fi pour fonctionner ?</h2>
+<h2 id="faut-il-du-wi-fi-pour-fonctionner">+ Faut-il du Wi-Fi pour fonctionner ?</h2>
 
 <p>Non. Familink peut se connecter tout seul à Internet grâce à sa carte SIM déjà incluse et paramétrée. Il n’est donc pas nécessaire d’avoir un abonnement à Internet pour fonctionner.</p>
 
 <p>Il est toutefois possible de le connecter en Wi-Fi si vous le préférez.</p>
 
-<h2 id="y-a-t-il-un-nombre-maximum-de-photos-que-l-on-peut-envoyer">Y a-t-il un nombre maximum de photos que l’on peut envoyer ?</h2>
+<h2 id="y-a-t-il-un-nombre-maximum-de-photos-que-l-on-peut-envoyer">+ Y a-t-il un nombre maximum de photos que l’on peut envoyer ?</h2>
 
 <p>La carte Sim permet de recevoir 10 photos par jour si le cadre photo est connecté en 3G, et un nombre illimité s’il est connecté en Wi-Fi. Nous vous invitons à envoyer des photos le plus régulièrement possible plutôt que beaucoup d’un seul coup.</p>
 
 <p>Les cadres photos Familink ont une capacité de stockage qui permet de conserver au moins 10 000 photos.</p>
 
-<h2 id="un-abonnement-est-il-nécessaire">Un abonnement est-il nécessaire ?</h2>
+<h2 id="un-abonnement-est-il-nécessaire">+ Un abonnement est-il nécessaire ?</h2>
 
 <p>Oui et Non. Familink est vendu avec déjà un an d’abonnement au service en illimité. Le décompte commence au premier allumage du cadre.</p>
 
@@ -293,25 +321,6 @@
 
     </div>
     
-
-    
-<script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
-
-<script src="//maps.googleapis.com/maps/api/js?v=3.exp"></script>
-
-<script src="/js/hpneo.gmaps.js"></script>
-<script src="/js/gmaps.init.js"></script>
-<script src="/js/front.js"></script>
-
-
-<script src="/js/owl.carousel.min.js"></script>
-
 
   </body>
 </html>
