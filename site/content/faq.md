@@ -5,8 +5,6 @@ title = "FAQ"
 type = "page"
 
 +++
-
-
 {{% faq_showhide %}}
 
 
