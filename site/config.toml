@@ -5,22 +5,10 @@ languageCode = "fr-FR"
 paginate = 10
 theme = "hugo-universal-theme"
 title = "Familink"
-
-[languages]
-    [languages.en]
-        weight = 1
-        copyright = "Copyright (c) 2018."
-        languageName = "English"
-
-    [languages.fr]
-        weight = 2
-        languageName = "Français"
-
-[[languages.fr.menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
-
+[languages.en]
+copyright = "Copyright (c) 2018."
+languageName = "English"
+weight = 1
 [[languages.en.menu.main]]
 name = "Contact"
 url = "/contact/"
@@ -38,7 +26,13 @@ weight = 2
 name = "Home"
 url = "/"
 weight = 1
-
+[languages.fr]
+languageName = "Français"
+weight = 2
+[[languages.fr.menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 4
 [[languages.fr.menu.main]]
 name = "Contact"
 url = "/contact/"
