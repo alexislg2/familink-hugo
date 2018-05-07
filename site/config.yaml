@@ -39,7 +39,7 @@ params:
     enable: true
   logo: img/banner2.png
   name: Your name
-  style: green
+  style: turquoise
   testimonials:
     enable: true
     subtitle: ''
