@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Landings on Familink</title>
+    <link>/landing/</link>
+    <description>Recent content in Landings on Familink</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 04 May 2018 15:55:13 +0200</lastBuildDate>
+    
+	<atom:link href="/landing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>/landing/1/</link>
+      <pubDate>Fri, 04 May 2018 15:55:13 +0200</pubDate>
+      
+      <guid>/landing/1/</guid>
+      <description>MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach.
+The generated mapping code uses plain method invocations and thus is fast, type-safe and easy to understand.</description>
+    </item>
+    
+  </channel>
+</rss>

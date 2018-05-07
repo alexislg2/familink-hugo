@@ -22,6 +22,16 @@ Files StackEdit stores your files in your browser, which means all your files ar
     </item>
     
     <item>
+      <title>about</title>
+      <link>/landing/1/</link>
+      <pubDate>Fri, 04 May 2018 15:55:13 +0200</pubDate>
+      
+      <guid>/landing/1/</guid>
+      <description>MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach.
+The generated mapping code uses plain method invocations and thus is fast, type-safe and easy to understand.</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
