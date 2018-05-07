@@ -38,8 +38,7 @@ weight = 2
 name = "Home"
 url = "/"
 weight = 1
-[languages.fr]
-weight = 2
+
 [[languages.fr.menu.main]]
 name = "Contact"
 url = "/contact/"
