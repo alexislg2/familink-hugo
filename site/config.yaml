@@ -71,6 +71,8 @@ menu:
       url: 'mailto:contact@familinkframe.com'
       weight: 4
 params:
+  defaultDescription: "Donner une utilité sociale à la technologie. Familink est un cadre photo connecté 3G dédié aux personnes âgées. Avec Familink les enfants peuvent envoyer des photos instantanément à leurs parents et grands-parents."
+  defaultImage: "/img/opengraph_image.jpg"
   date_format: "2 Jan 2006"
   about_us: <p>Familink est une marque de AsWeShare</p>
   address: |-
