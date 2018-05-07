@@ -5,95 +5,79 @@ languageCode = "fr-FR"
 paginate = 10
 theme = "hugo-universal-theme"
 title = "Familink"
-
-
-[languages]
-    [languages.en]
-        weight = 1
-        copyright = "Copyright (c) 2018."
-
-    [languages.fr]
-        weight = 2
-
-[[languages.fr.menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
-
+[languages.en]
+copyright = "Copyright (c) 2018."
+weight = 1
 [[languages.en.menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
-
-[[languages.fr.menu.main]]
-    identifier = "faq"
-    name = "FAQ"
-    url = "/faq/"
-    weight = 3
-
+name = "Contact"
+url = "/contact/"
+weight = 4
 [[languages.en.menu.main]]
-    identifier = "faq"
-    name = "FAQ"
-    url = "/faq/"
-    weight = 3
-
-[[languages.fr.menu.main]]
-    name = "Envoyer des photos"
-    url = "https://web.familinkframe.com/fr"
-    weight = 2
-
+identifier = "faq"
+name = "FAQ"
+url = "/faq/"
+weight = 3
 [[languages.en.menu.main]]
-    name = "Send pictures to my frames"
-    url = "https://web.familinkframe.com/en"
-    weight = 2
-
-[[languages.fr.menu.main]]
-    name = "Accueil"
-    url = "/"
-    weight = 1
-
+name = "Send pictures to my frames"
+url = "https://web.familinkframe.com/en"
+weight = 2
 [[languages.en.menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
+name = "Home"
+url = "/"
+weight = 1
+[languages.fr]
+weight = 2
+[[languages.fr.menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 4
+[[languages.fr.menu.main]]
+identifier = "faq"
+name = "FAQ"
+url = "/faq/"
+weight = 3
+[[languages.fr.menu.main]]
+name = "Envoyer des photos"
+url = "https://web.familinkframe.com/fr"
+weight = 2
+[[languages.fr.menu.main]]
+name = "Accueil"
+url = "/"
+weight = 1
 [[menu.topbar]]
-    name = "Email"
-    pre = "<i class='fa fa-2x fa-envelope'></i>"
-    url = "mailto:contact@familinkframe.com"
-    weight = 4
-
+name = "Facebook"
+pre = "<i class='fa fa-2x fa-facebook'></i>"
+url = "https://facebook.com/familinkframe"
+weight = 2
 [[menu.topbar]]
-    name = "Twitter"
-    pre = "<i class='fa fa-2x fa-twitter'></i>"
-    url = "https://twitter.com/familinkframe"
-    weight = 3
-
+name = "Twitter"
+pre = "<i class='fa fa-2x fa-twitter'></i>"
+url = "https://twitter.com/familinkframe"
+weight = 3
 [[menu.topbar]]
-    name = "Facebook"
-    pre = "<i class='fa fa-2x fa-facebook'></i>"
-    url = "https://facebook.com/familinkframe"
-    weight = 2
-
+name = "Email"
+pre = "<i class='fa fa-2x fa-envelope'></i>"
+url = "mailto:contact@familinkframe.com"
+weight = 4
 [params]
-    about_us = "<p>Familink est une marque de AsWeShare</p>"
-    address = "<p><strong>369 Sente Sainte Venise</strong>\n        <br>76230 Bois Guillaume\n        <br>\n        <strong>FRANCE</strong>\n      </p>\n      "
-    copyright = "Copyright 2018."
-    description = "Describe your website"
-    email = "alexis@asweshare.com"
-    logo = "img/banner2.png"
-    name = "Your name"
-    style = "green"
-    [params.carousel]
-    enable = true
-    [params.familink_description]
-        enable = false
-    [params.features]
-        enable = true
-    [params.testimonials]
-        enable = true
-        subtitle = ""
-        title = "Témoignages"
-    [params.topbar]
-        enable = true
-        text = "Familink"
+about_us = "<p>Familink est une marque de AsWeShare</p>"
+address = "<p><strong>369 Sente Sainte Venise</strong>\n        <br>76230 Bois Guillaume\n        <br>\n        <strong>FRANCE</strong>\n      </p>\n      "
+copyright = "Copyright 2018."
+description = "Describe your website"
+email = "alexis@asweshare.com"
+logo = "img/banner2.png"
+name = "Your name"
+style = "green"
+[params.carousel]
+enable = true
+[params.familink_description]
+enable = false
+[params.features]
+enable = true
+[params.testimonials]
+enable = true
+subtitle = ""
+title = "Témoignages"
+[params.topbar]
+enable = true
+text = "Familink"
