@@ -1,13 +1,11 @@
 +++
+aliases = ["/liste-des-zones-dans-lesquelles-fonctionne-familink/"]
+banner = "img/blog/map.png"
 categories = []
 date = "2018-05-07T14:02:45Z"
-draft = false
 tags = []
 title = "Liste des pays dans lesquels fonctionne Familink"
-banner = "img/blog/map.png"
-aliases = [
-    "/liste-des-zones-dans-lesquelles-fonctionne-familink/"
-]
+
 +++
 ![liste pays Familink](/img/blog/map.png)
 

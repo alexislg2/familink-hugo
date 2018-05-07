@@ -1,13 +1,11 @@
 +++
+aliases = ["en/list-world-areas-familink-can-installed/"]
+banner = "img/blog/map.png"
 categories = []
 date = "2018-05-07T14:02:45Z"
-draft = false
 tags = []
 title = "List of World Areas where Familink can be installed"
-banner = "img/blog/map.png"
-aliases = [
-    "en/list-world-areas-familink-can-installed/"
-]
+
 +++
 ![liste pays Familink](/img/blog/map.png)
 
