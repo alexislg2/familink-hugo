@@ -1,52 +1,10 @@
----
-baseurl: "/"
+baseurl: /
 defaultContentLanguage: fr
 googleAnalytics: ''
 languageCode: fr-FR
 paginate: 10
 theme: hugo-universal-theme
 title: Familink
-menu:
-  topbar:
-  - name: Facebook
-    pre: "<i class='fa fa-2x fa-facebook'></i>"
-    url: https://facebook.com/familinkframe
-    weight: 2
-  - name: Twitter
-    pre: "<i class='fa fa-2x fa-twitter'></i>"
-    url: https://twitter.com/familinkframe
-    weight: 3
-  - name: Email
-    pre: "<i class='fa fa-2x fa-envelope'></i>"
-    url: mailto:contact@familinkframe.com
-    weight: 4
-params:
-  about_us: "<p>Familink est une marque de AsWeShare</p>"
-  address: |-
-    <p><strong>369 Sente Sainte Venise</strong>
-            <br>76230 Bois Guillaume
-            <br>
-            <strong>FRANCE</strong>
-          </p>
-  carousel:
-    enable: true
-  copyright: Copyright 2018.
-  description: Describe your website
-  email: alexis@asweshare.com
-  familink_description:
-    enable: true
-  features:
-    enable: true
-  logo: img/banner2.png
-  name: Your name
-  style: turquoise
-  testimonials:
-    enable: true
-    subtitle: ''
-    title: Témoignages
-  topbar:
-    enable: true
-    text: Familink
 languages:
   en:
     weight: 1
@@ -54,46 +12,94 @@ languages:
     languageName: English
     menu:
       main:
-      - !ruby/hash:InsensitiveHash
-        name: Contact
-        url: "/contact/"
-        weight: 4
-      - !ruby/hash:InsensitiveHash
-        identifier: faq
-        name: FAQ
-        url: "/faq/"
-        weight: 3
-      - !ruby/hash:InsensitiveHash
-        name: Send pictures to my frames
-        url: https://web.familinkframe.com/en
-        weight: 2
-      - !ruby/hash:InsensitiveHash
-        name: Home
-        url: "/"
-        weight: 1
+        - name: Contact
+          url: /contact/
+          weight: 4
+        - identifier: faq
+          name: FAQ
+          url: /faq/
+          weight: 3
+        - name: Send pictures to my frames
+          url: "https://web.familinkframe.com/en"
+          weight: 2
+        - name: Home
+          url: /
+          weight: 1
+    params:
+        recent_posts:
+            enable: true
+            title: "Latest Posts"
+            subtitle: ""
+
+        testimonials:
+            enable: true
+            subtitle: ''
+            title: Testimonials
   fr:
     weight: 2
     languageName: Français
     menu:
       main:
-      - !ruby/hash:InsensitiveHash
-        name: Contact
-        url: "/contact/"
-        weight: 4
-      - !ruby/hash:InsensitiveHash
-        name: Contact
-        url: "/contact/"
-        weight: 4
-      - !ruby/hash:InsensitiveHash
-        identifier: faq
-        name: FAQ
-        url: "/faq/"
-        weight: 3
-      - !ruby/hash:InsensitiveHash
-        name: Envoyer des photos
-        url: https://web.familinkframe.com/fr
-        weight: 2
-      - !ruby/hash:InsensitiveHash
-        name: Accueil
-        url: "/"
-        weight: 1
+        - name: Contact
+          url: /contact/
+          weight: 4
+        - name: Contact
+          url: /contact/
+          weight: 4
+        - identifier: faq
+          name: FAQ
+          url: /faq/
+          weight: 3
+        - name: Envoyer des photos
+          url: https://web.familinkframe.com/fr"
+          weight: 2
+        - name: Accueil
+          url: /
+          weight: 1
+menu:
+  topbar:
+    - name: Facebook
+      pre: <i class='fa fa-2x fa-facebook'></i>
+      url: 'https://facebook.com/familinkframe'
+      weight: 2
+    - name: Twitter
+      pre: <i class='fa fa-2x fa-twitter'></i>
+      url: 'https://twitter.com/familinkframe'
+      weight: 3
+    - name: Email
+      pre: <i class='fa fa-2x fa-envelope'></i>
+      url: 'mailto:contact@familinkframe.com'
+      weight: 4
+params:
+  date_format: "2 Jan 2006"
+  about_us: <p>Familink est une marque de AsWeShare</p>
+  address: |-
+    <p><strong>369 Sente Sainte Venise</strong>
+            <br>76230 Bois Guillaume
+            <br>
+            <strong>FRANCE</strong>
+          </p>
+
+  copyright: Copyright 2018.
+  description: Describe your website
+  email: alexis@asweshare.com
+  logo: img/banner2.png
+  name: Your name
+  style: turquoise
+  carousel:
+    enable: true
+  familink_description:
+    enable: true
+  recent_posts:
+    enable: true
+    title: "Actualités"
+    subtitle: ""
+  features:
+    enable: true
+  testimonials:
+    enable: true
+    subtitle: ''
+    title: Témoignages
+  topbar:
+    enable: true
+    text: Familink
