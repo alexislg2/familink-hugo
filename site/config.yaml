@@ -37,7 +37,7 @@ params:
     envoyer des photos instantanément à leurs parents et grands-parents.
   defaultimage: "/img/opengraph_image.jpg"
   description: Describe your website
-  email: alexis@asweshare.com
+  email: contact@asweshare.com
   familink_description:
     enable: true
   features:
