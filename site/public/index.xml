@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Comment ça marche ?</title>
+      <link>/landing/1/</link>
+      <pubDate>Fri, 04 May 2018 15:55:13 +0200</pubDate>
+      
+      <guid>/landing/1/</guid>
+      <description>Les cadres photos Familink sont connectés automatiquement à Internet grâce à une connexion 3G incluse. Ils sont déjà associés à votre compte Familink quand vous les commandez.Vous avez juste à installer l&amp;rsquo;appli mobile ou utiliser le site web pour envoyer des photos à vos grands-parents.Le cloud Familink vous permet de sauvegarder et d&amp;rsquo;archiver vos photos pour commander des tirages papier.
+Vous ne voulez pas d&amp;rsquo;appli. Envoyez un E-Mail !</description>
+    </item>
+    
+    <item>
       <title>about</title>
       <link>/about/</link>
       <pubDate>Fri, 04 May 2018 15:55:13 +0200</pubDate>
@@ -19,16 +29,6 @@
       <guid>/about/</guid>
       <description>Welcome to StackEdit! Hi! I&amp;rsquo;m your first Markdown file in StackEdit. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the file explorer on the left corner of the navigation bar.
 Files StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible offline!</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>/landing/1/</link>
-      <pubDate>Fri, 04 May 2018 15:55:13 +0200</pubDate>
-      
-      <guid>/landing/1/</guid>
-      <description>MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach.
-The generated mapping code uses plain method invocations and thus is fast, type-safe and easy to understand.</description>
     </item>
     
     <item>
