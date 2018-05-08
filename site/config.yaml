@@ -118,5 +118,5 @@ languages:
         weight: 2
       - !ruby/hash:InsensitiveHash
         name: Boutique
-        url: "https://shop.familinkframe.com/produit/familink-2017-cadre-photo-3g/"
+        url: https://shop.familinkframe.com/produit/familink-2017-cadre-photo-3g/
         weight: 1

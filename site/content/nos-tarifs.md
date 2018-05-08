@@ -4,7 +4,6 @@ title = "Nos tarifs"
 type = "page"
 
 +++
-
 Nos tarifs sont, comme notre produit, simplifiés à l’extrême :
 
 Le cadre coûte  **149.90€**  TTC. Ce prix inclut 3 mois d’accès au service, et notamment l’utilisation de la SIM en 3G, qui est déjà activée. Pas de limite sur le nombre d’utilisateurs.La carte Sim permet de recevoir 10 photos par jour si le cadre photo est connecté en 3G, et un nombre illimité s’il est connecté en Wi-Fi.
