@@ -37,7 +37,7 @@ params:
     envoyer des photos instantanément à leurs parents et grands-parents.
   defaultimage: "/img/opengraph_image.jpg"
   description: Describe your website
-  email: contact@asweshare.com
+  email: contact@familinkframe.com
   familink_description:
     enable: true
   features:
@@ -95,19 +95,28 @@ languages:
     menu:
       main:
       - !ruby/hash:InsensitiveHash
-        name: Contact
-        url: "/contact/"
-        weight: 4
-      - !ruby/hash:InsensitiveHash
         identifier: faq
         name: FAQ
         url: "/faq/"
-        weight: 3
+        weight: 6
+      - !ruby/hash:InsensitiveHash
+        identifier: tarifs
+        name: Tarifs
+        url: "/nos-tarifs/"
+        weight: 5
       - !ruby/hash:InsensitiveHash
         name: Envoyer des photos
         url: https://web.familinkframe.com/fr
+        weight: 4
+      - !ruby/hash:InsensitiveHash
+        name: Contact
+        url: "/contact/"
+        weight: 3
+      - !ruby/hash:InsensitiveHash
+        name: Où Acheter
+        url: "/ou-acheter"
         weight: 2
       - !ruby/hash:InsensitiveHash
-        name: Accueil
-        url: "/"
+        name: Boutique
+        url: "https://shop.familinkframe.com/produit/familink-2017-cadre-photo-3g/"
         weight: 1
