@@ -2,10 +2,9 @@
 description = "Frequently asked questions"
 keywords = ["FAQ", "How do I", "questions", "what if"]
 title = "FAQ"
-type = "page"
+id = "faq"
 
 +++
-{{% faq_showhide %}}
 
 Bienvenue sur la FAQ de Familink !
 
