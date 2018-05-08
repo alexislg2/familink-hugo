@@ -1,11 +1,11 @@
 +++
 description = "Frequently asked questions"
+id = "faq"
 keywords = ["FAQ", "How do I", "questions", "what if"]
 title = "FAQ"
-id = "faq"
+type = "page"
 
 +++
-
 Bienvenue sur la FAQ de Familink !
 
 ### + Faut-il acheter une carte SIM ?
