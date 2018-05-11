@@ -105,7 +105,7 @@ languages:
         url: "/nos-tarifs/"
         weight: 5
       - !ruby/hash:InsensitiveHash
-        name: Envoyer des photos
+        name: Mes Cadres
         url: https://web.familinkframe.com/fr
         weight: 4
       - !ruby/hash:InsensitiveHash
@@ -118,5 +118,5 @@ languages:
         weight: 2
       - !ruby/hash:InsensitiveHash
         name: Boutique
-        url: https://shop.familinkframe.com/produit/familink-2017-cadre-photo-3g/
+        url: "/shop"
         weight: 1
