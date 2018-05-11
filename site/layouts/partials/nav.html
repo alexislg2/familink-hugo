@@ -37,13 +37,14 @@
                   {{ if .Site.IsMultiLingual }}
 
                 {{ if ge (len .Site.Languages) 3 }}
-                    <li class="navlinks-container">
-                        <div class="navlinks-children">
+                  <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ i18n "langue" }} <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
                         {{ range .Translations }}
                         <li><a href="{{ .Permalink }}">{{ .Site.Language.LanguageName }}</a></li>
                         {{ end }}
-                        </div>
-                    </li>
+                    </ul>
+                  </li>
                  {{ else }}
                     <li>
                     {{ range .Translations }}

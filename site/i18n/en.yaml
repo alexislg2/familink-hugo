@@ -4,3 +4,5 @@
   translation: "Cart"
 - id: "Ajouter au panier"
   translation: "Add to Cart"
+- id: "langue"
+  translation: "Language"

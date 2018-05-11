@@ -120,3 +120,28 @@ languages:
         name: Boutique
         url: "/shop"
         weight: 1
+  de:
+    weight: 3
+    languageName: Deutsch
+    menu:
+      main:
+      - !ruby/hash:InsensitiveHash
+        identifier: faq
+        name: FAQ
+        url: "/faq/"
+        weight: 6
+      - !ruby/hash:InsensitiveHash
+        identifier: tarifs
+        name: Unsere Preise
+        url: "/nos-tarifs/"
+        weight: 5
+      - !ruby/hash:InsensitiveHash
+        name: Mes Cadres
+        url: https://web.familinkframe.com/fr
+        weight: 4
+      - !ruby/hash:InsensitiveHash
+        name: Kontakt
+        url: "/contact/"
+        weight: 3
+
+
