@@ -65,12 +65,12 @@ languages:
       main:
       - !ruby/hash:InsensitiveHash
         name: Contact
-        url: "/contact/"
+        url: "/en/contact/"
         weight: 4
       - !ruby/hash:InsensitiveHash
         identifier: faq
         name: FAQ
-        url: "/faq/"
+        url: "/en/faq/"
         weight: 3
       - !ruby/hash:InsensitiveHash
         name: Send pictures to my frames
@@ -122,26 +122,33 @@ languages:
         weight: 1
   de:
     weight: 3
+    copyright: Copyright (c) 2018.
     languageName: Deutsch
     menu:
       main:
       - !ruby/hash:InsensitiveHash
-        identifier: faq
-        name: FAQ
-        url: "/faq/"
-        weight: 6
-      - !ruby/hash:InsensitiveHash
-        identifier: tarifs
-        name: Unsere Preise
-        url: "/nos-tarifs/"
-        weight: 5
-      - !ruby/hash:InsensitiveHash
-        name: Mes Cadres
-        url: https://web.familinkframe.com/fr
+        name: kontakt
+        url: "/de/kontakt/"
         weight: 4
       - !ruby/hash:InsensitiveHash
-        name: Kontakt
-        url: "/contact/"
+        identifier: faq
+        name: FAQ
+        url: "/de/faq/"
         weight: 3
-
-
+      - !ruby/hash:InsensitiveHash
+        name: Bilder schicken
+        url: https://web.familinkframe.com/en
+        weight: 2
+      - !ruby/hash:InsensitiveHash
+        name: Home
+        url: "/"
+        weight: 1
+    params:
+      recent_posts:
+        enable: true
+        title: Nachrichten
+        subtitle: ''
+      testimonials:
+        enable: true
+        subtitle: ''
+        title: Testimonials
