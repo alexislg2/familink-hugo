@@ -13,10 +13,11 @@
                 class="snipcart-add-item waves-effect waves-light btn"
                 data-item-id="{{ .id }}"
                 data-item-name="{{ .name }}"
+                data-item-weight="{{ .weight }}"
                 data-item-price='{"eur": {{ .price }}}'
                 data-item-url="{{ .url }}">
                     <i class="material-icons right">shopping_cart</i>
-                    Ajouter au panier
+                    {{ i18n "Ajouter au panier" }}
             </button>
         </div>
         </div>
