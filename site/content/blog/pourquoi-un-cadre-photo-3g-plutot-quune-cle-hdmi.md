@@ -1,10 +1,9 @@
 +++
+banner = "uploads/2018/05/12/Familink_HD_09-300x194.jpg)OU ![](/uploads/2018/05/12/ez-cast-5g-wifi-display-recepteur-tv-pc-dongle-av-300x300.jpg"
 categories = []
-date = "2018-05-12T13:23:03+00:00"
-draft = false
+date = "2018-05-12T13:23:03Z"
 tags = []
 title = "Pourquoi un cadre photo 3G plutôt qu’une clé HDMI ?"
-banner = "uploads/2018/05/12/Familink_HD_09-300x194.jpg)OU ![](/uploads/2018/05/12/ez-cast-5g-wifi-display-recepteur-tv-pc-dongle-av-300x300.jpg"
 
 +++
 Promis cet article n’est pas technique !
