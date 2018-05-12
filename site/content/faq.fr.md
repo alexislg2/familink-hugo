@@ -68,6 +68,7 @@ L’interface Familink permet à tout instant il est possible de savoir si une p
 ### + Est-il possible d’envoyer mes photos sur plusieurs cadres en même temps ?
 
 Oui, si vous avez le contrôle sur plusieurs cadres Familink, il vous est possible de sélectionner une liste de destinataires multiples :
+
 ![](/img/faq/transfer_fr.png)
 
 ### + Peut-on faire défiler les photos ?
@@ -127,7 +128,7 @@ N’oubliez pas de donner un nom personnalisé à ce cadre.
 
 Une fois cette étape effectuée, vous pouvez envoyer des photos en cliquant sur « Envoyer une photo » :
 
-![](/img/faq/Screenshot-from-2017-03-09-10-45-19-1024x510.png =640x319)
+![](/img/faq/Screenshot-from-2017-03-09-10-45-19-1024x510.png)
 
 Choisissez ensuite une photo à envoyer, en faisant un glisser/déposer ou en cliquant sur la zone prévue à cet effet :
 
@@ -172,12 +173,16 @@ C’est très facile, vous pouvez le faire de plusieurs façons :
   ![](/img/faq/Screen-Shot-2017-05-09-at-16.07.58.png)
 
   puis cliquer sur « inviter un ami » :
-  ![](/img/faq/Screen-Shot-2017-05-09-at-16.11.05.png)
+
+  ![](/img/faq/Screen-Shot-2017-05-09-at-16.11.05-1024x312.png)
 
   Vous pouvez ainsi récupérer le code d’association du cadre (voir plus haut) et l’envoyer par mail avec toutes les explications à l’adresse Email de votre choix
-  ![](/img/faq/Screen-Shot-2017-05-09-at-16.12.14.png)
+
+  ![](/img/faq/Screen-Shot-2017-05-09-at-16.12.14-803x1024.png)
+
 * Enfin, vous pouvez inviter quelqu’un depuis l’application mobile. Naviguez sur la page du cadre dont vous voulez partager l’accès puis cliquez sur les 3 petits points en haut à droite puis sélectionner « inviter un ami » :
-  ![](/img/faq/5915392910982856343-account_id1.png)
+
+  ![](/img/faq/5915392910982856343-account_id1-576x1024.png)
 
 ### + Comment accède-t-on aux réglages du cadre ?
 
@@ -205,7 +210,7 @@ Il suffit de choisir le préfixe de l’adresse E-mail que l’on veut donner au
 
 ### + Où puis-je trouver le manuel du cadre ?
 
-[Manuel utilisateur Familink 2017](https://dr8rbg9qg9auo.cloudfront.net/wp-content/uploads/2017/07/Manuel-utilisateur-Familink-2017.pdf)
+[Manuel utilisateur Familink 2017](/pdf/Manuel-utilisateur-Familink-2017.pdf)
 
 ### + Est-ce que ça marche à l’étranger ?
 

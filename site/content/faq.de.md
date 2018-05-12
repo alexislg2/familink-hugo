@@ -44,7 +44,7 @@ Nein. Familink wurde so unkompliziert wie möglich konzipiert.
 
 Mit Familink haben Sie viele Möglichkeiten, Ihre Bilder zu teilen. Sie wählen für sich einfach die Lösung, die am besten zu Ihnen passt:
 
-* Sie schicken Ihre Bilder von einem Rechner aus [https://web.familinkframe.com/](https://web.familinkframe.com/de) über die webbasierte Schnittstelle
+* Sie schicken Ihre Bilder von einem Rechner aus [https://web.familinkframe.com/](https://web.familinkframe.com/en) über die webbasierte Schnittstelle
 * Sie nutzen unsere App für [Android](https://play.google.com/store/apps/details?id=io.familink.pegase) oder [iPhone](https://itunes.apple.com/fr/app/familink/id997515608?mt=8)
 * Sie schicken Ihre Bilder ganz einfach per E-Mail. Ja, [Sie können Ihrem Bilderrahmen tatsächlich eine E-Mail Adressezuweisen.](https://www.familinkframe.com/un-cadre-photo-3g-avec-une-adresse-email/)
 
@@ -82,7 +82,45 @@ Nein. Familink wird mit einer integrierten und vorkonfigurierten 3G SIM-Karte ge
 
 Selbstverständlich! Über die webbasierte Schnittstelle können Sie ganz einfach die gewünschten Änderungen vornehmen. Klicken Sie hierfür auf „Einstellungen des Bilderrahmens“. Folgendes Menü erscheint:
 
-![](https://dr8rbg9qg9auo.cloudfront.net/wp-content/uploads/2017/02/Screenshot-from-2017-02-15-13-52-00.png)
+![](/img/faq/Screenshot-from-2017-02-15-13-52-00.png)
 
 Die neuen Einstellungen werden sofort auf den Bilderrahmen übertragen.
+
+### + Kann ich ein Bild löschen?
+
+Ja, [über die webbasierte Schnittstelle](https://web.familinkframe.com/en). Dazu klicken Sie auf eines der drei Symbole, die erscheinen, sobald Sie die Maus über das Bild bewegen:
+
+![](/img/faq/image-300x282.png)
+
+Auch über die mobile App können Sie ein Bild löschen. Hierzu drücken Sie lange auf das Bild. Es erscheint automatisch das „Löschen“-Symbol.
+
+### + Wie kann ich Bilder verschicken?
+
+Um Bilder auf einen Familink Bilderrahmen zu schicken, benötigen Sie einen Bilderrahmen, einen Familink Account und einen Rechner oder ein Smartphone.
+
+Jeder Rahmenr besitzt einen eindeutigen Verbindungscode. Diesen Code finden Sie im Benutzerhandbuch. Außerdem wird er beim ersten Anschalten auf dem Bilderrahmen angezeigt. Notieren Sie sich diesen Code.
+
+![](/img/faq/qr-comp-1024x302.png)
+
+Anschließend erstellen Sie Ihren Account unter web.familinkframe.com:
+
+![](/img/faq/Screenshot-from-2017-03-09-10-37-59.png)
+
+Sie können sich entweder einen Account anlegen („Anmelden“) oder sich mit Ihrem Google- oder Facebook-Account einloggen.
+
+Sobald Sie eingeloggt sind, können Sie den Bilderrahmen mit Ihrem Account verbinden. Hierfür benötigen Sie den Verbindungscode:
+
+![](/img/faq/Screenshot-from-2017-03-09-10-41-37-1024x629.png)
+
+Vergessen Sie nicht, dem Bilderrahmen einen personalisierten Name zu geben.
+
+Im Anschluss daran können Sie sofort ganz einfachein Bild an den Bilderrahmen senden. Hierzu klicken Sie auf „Bilder schicken“:
+
+![](/img/faq/Screenshot-from-2017-03-09-10-45-19-1024x510.png)
+
+Wählen Sie ein Bild per Drag-and-Drop aus oder klicken Sie auf den hierfür vorgesehen Bereich:
+
+![](/img/faq/Screenshot-from-2017-03-09-10-46-03.png)
+
+Und das war alles: das Bild wurde auf den Bilderrahmen übertragen. Sollte der Rahmen ausgeschaltet sein, wird das Bild erhalten, sobald er online geht.
 
