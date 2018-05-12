@@ -1,10 +1,10 @@
 +++
+aliases = ["/couverture-du-cadre-photo-familink-en-3g/"]
 banner = "uploads/2018/05/12/4-operateurs-768x603.png"
 categories = []
 date = "2018-05-12T13:31:51Z"
 tags = []
 title = "Couverture du cadre photo Familink en 3G"
-aliases = ["/couverture-du-cadre-photo-familink-en-3g/"]
 
 +++
 # **Et si mon cadre Familink se retrouve dans une zone sans 3G ?**

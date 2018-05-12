@@ -1,10 +1,10 @@
 +++
+aliases = ["familink-pourquoi-faire/"]
 banner = "uploads/2018/05/12/bureau-768x425.jpg"
 categories = []
 date = "2018-05-12T13:19:33Z"
 tags = []
 title = "Un cadre photo 3G pour quoi faire ?"
-aliases = ["familink-pourquoi-faire/"]
 
 +++
 Familink est le premier cadre photo 3G dédié aux seniors. Concrètement qu’est ce que cela change par rapport aux autres cadres photo connecté ? Le fait que la connexion se fasse en 3G – à l’aide d’une carte SIM dédiée et incluse – fait que ce cadre peut fonctionner n’importe où, sans aucun branchement. Il se connectera à l’antenne la plus proche et sera automatiquement relié à Internet.
