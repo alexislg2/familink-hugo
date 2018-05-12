@@ -1,4 +1,5 @@
 +++
+aliases = ["/familink-une-simplicite-poussee-lextreme/"]
 banner = "uploads/2018/05/12/iStock_14508847_LARGE-750x500.jpg"
 categories = []
 date = "2018-05-12T13:30:58Z"

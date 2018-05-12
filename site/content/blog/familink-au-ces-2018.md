@@ -4,6 +4,7 @@ categories = []
 date = "2018-05-12T13:24:13Z"
 tags = []
 title = "Familink au CES 2018"
+aliases = ["/familink-au-ces-2018/"]
 
 +++
 ![](/uploads/2018/05/12/CES-CTA-Logo-Combo-Blue-Text-Logo-Left_1147x399-768x267.png) 
