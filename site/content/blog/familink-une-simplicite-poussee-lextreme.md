@@ -1,10 +1,9 @@
 +++
+banner = "uploads/2018/05/12/iStock_14508847_LARGE-750x500.jpg"
 categories = []
-date = "2018-05-12T13:30:58+00:00"
-draft = false
+date = "2018-05-12T13:30:58Z"
 tags = []
 title = "Une simplicité poussée à l’extrême"
-banner = "uploads/2018/05/12/iStock_14508847_LARGE-750x500.jpg"
 
 +++
 #### **Familink est un cadre photo 3G à destination des seniors et de tous ceux qui n’ont pas Internet ou ne veulent pas s’en servir. Il a été pensé pour tous, sans limite d’âge grâce à son incroyable simplicité.**
