@@ -4,6 +4,7 @@ categories = []
 date = "2018-05-12T13:23:03Z"
 tags = []
 title = "Pourquoi un cadre photo 3G plutôt qu’une clé HDMI ?"
+banner = "uploads/2018/05/12/ez-cast-5g-wifi-display-recepteur-tv-pc-dongle-av-300x300.jpg"
 
 +++
 Promis cet article n’est pas technique !
