@@ -6,7 +6,6 @@ title = "FAQ"
 type = "page"
 
 +++
-
 ### + Welche Abmessungen hat der Familink Bilderrahmen?
 
 Maße des Rahmens, B/H/T: 20/14/4 cm.
