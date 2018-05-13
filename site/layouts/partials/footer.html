@@ -9,7 +9,7 @@
 
             <hr class="hidden-md hidden-lg hidden-sm">
 
-            <h4><a href="/blog">Blog</h4>
+            <h4><a href="{{ "blog" | absLangURL }}">Blog</h4>
 
         </div>
         <!-- /.col-md-4 -->
@@ -48,9 +48,15 @@
         {{ if isset .Site.Params "address" }}
         <div class="col-md-4 col-sm-6">
 
-          <h4>{{ i18n "contactTitle" }}</h4>
+          <h4>{{ i18n "familinkContactTitle" }}</h4>
 
             {{ .Site.Params.address | markdownify }}
+            <br>
+            {{ i18n "commercialRegister" }}{{ .Site.Params.tribunal }}
+            <br>
+            {{ i18n "siren" }}{{ .Site.Params.siren }}
+            <br>
+            {{ i18n "tva" }}{{ .Site.Params.tva }}
 
             <a href="/contact" class="btn btn-small btn-template-main">{{ i18n "contactGoTo" }}</a>
 

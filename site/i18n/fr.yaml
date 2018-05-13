@@ -6,3 +6,13 @@
   translation: "Ajouter au panier"
 - id: "langue"
   translation: "Langue"
+- id: "familinkContactTitle"
+  translation: "Contact"
+- id: "commercialRegister"
+  translation: "RCS de : "
+- id: "siren"
+  translation: "Siren : "
+- id: "tva"
+  translation: "TVA : "
+
+
