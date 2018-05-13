@@ -3,8 +3,8 @@ description = "Frequently asked questions"
 id = "faq"
 keywords = ["FAQ", "How do I", "questions", "what if"]
 title = "FAQ"
-type = "page"
 toc = true
+type = "page"
 
 +++
 Bienvenue sur la FAQ de Familink !
