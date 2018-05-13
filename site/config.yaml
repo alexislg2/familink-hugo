@@ -83,6 +83,19 @@ languages:
         name: Home
         url: "/"
         weight: 1
+      topbar:
+        - name: Facebook
+          pre: "<i class='fa fa-2x fa-facebook'></i>"
+          url: https://facebook.com/familinkframe
+          weight: 2
+        - name: Twitter
+          pre: "<i class='fa fa-2x fa-twitter'></i>"
+          url: https://twitter.com/familinkframe
+          weight: 3
+        - name: Email
+          pre: "<i class='fa fa-2x fa-envelope'></i>"
+          url: mailto:contact@familinkframe.com
+          weight: 4
     params:
       recent_posts:
         enable: true
@@ -123,6 +136,19 @@ languages:
         name: Boutique
         url: "/shop"
         weight: 1
+      topbar:
+        - name: Facebook
+          pre: "<i class='fa fa-2x fa-facebook'></i>"
+          url: https://facebook.com/familink.de/
+          weight: 2
+        - name: Twitter
+          pre: "<i class='fa fa-2x fa-twitter'></i>"
+          url: https://twitter.com/familinkde
+          weight: 3
+        - name: Email
+          pre: "<i class='fa fa-2x fa-envelope'></i>"
+          url: mailto:contact@familink.de
+          weight: 4
   de:
     weight: 3
     copyright: Copyright (c) 2018.
@@ -130,27 +156,40 @@ languages:
     menu:
       main:
       - !ruby/hash:InsensitiveHash
+        identifier: faq
+        name: FAQ
+        url: "/de/faq/"
+        weight: 6
+      - !ruby/hash:InsensitiveHash
         identifier: tarifs
         name: Unsere Preise
         url: "/de/unsere-preise/"
         weight: 5
       - !ruby/hash:InsensitiveHash
-        name: kontakt
-        url: "/de/kontakt/"
-        weight: 4
-      - !ruby/hash:InsensitiveHash
-        identifier: faq
-        name: FAQ
-        url: "/de/faq/"
-        weight: 3
-      - !ruby/hash:InsensitiveHash
         name: Bilder schicken
         url: https://web.familinkframe.com/en
-        weight: 2
+        weight: 4
       - !ruby/hash:InsensitiveHash
-        name: Home
-        url: "/"
+        name: kontakt
+        url: "/de/kontakt/"
+        weight: 3
+      - !ruby/hash:InsensitiveHash
+        name: Kaufen
+        url: /de/shop
         weight: 1
+      topbar:
+        - name: Facebook
+          pre: "<i class='fa fa-2x fa-facebook'></i>"
+          url: https://facebook.com/familinkframe
+          weight: 2
+        - name: Twitter
+          pre: "<i class='fa fa-2x fa-twitter'></i>"
+          url: https://twitter.com/familinkframe
+          weight: 3
+        - name: Email
+          pre: "<i class='fa fa-2x fa-envelope'></i>"
+          url: mailto:contact@familinkframe.com
+          weight: 4
     params:
       about_us: "<p>Familink ist eine Marke von AsWeShare</p>"
       address: |-
@@ -160,12 +199,11 @@ languages:
                 <br>
                 <strong>FRANKREICH</strong>
               </p>
-  carousel:
-    recent_posts:
-      enable: true
-      title: Nachrichten
-      subtitle: ''
-    testimonials:
-      enable: true
-      subtitle: ''
-      title: Testimonials
+      recent_posts:
+        enable: true
+        title: Nachrichten
+        subtitle: ''
+      testimonials:
+        enable: true
+        subtitle: ''
+        title: Testimonials
