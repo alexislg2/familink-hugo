@@ -127,6 +127,11 @@ languages:
     menu:
       main:
       - !ruby/hash:InsensitiveHash
+        identifier: tarifs
+        name: Unsere Preise
+        url: "/de/unsere-preise/"
+        weight: 5
+      - !ruby/hash:InsensitiveHash
         name: kontakt
         url: "/de/kontakt/"
         weight: 4
