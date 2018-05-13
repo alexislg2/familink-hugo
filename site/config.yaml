@@ -31,7 +31,7 @@ params:
   carousel:
     enable: true
   copyright: Copyright 2018.
-  date_format: 2006-01-02 00:00:00 +0000
+  date_format: "2006-01-02"
   defaultdescription: Donner une utilité sociale à la technologie. Familink est un
     cadre photo connecté 3G dédié aux personnes âgées. Avec Familink les enfants peuvent
     envoyer des photos instantanément à leurs parents et grands-parents.
