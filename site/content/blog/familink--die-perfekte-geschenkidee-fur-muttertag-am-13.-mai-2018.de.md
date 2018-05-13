@@ -1,9 +1,9 @@
 +++
+banner = "img/blog/grand-mere-avec-petite-fille-large-250x250.jpg"
 categories = []
 date = "2018-05-12T14:06:31Z"
 tags = []
 title = "Familink: die perfekte Geschenkidee für Muttertag am 13. Mai 2018"
-banner = "img/blog/grand-mere-avec-petite-fille-large-250x250.jpg"
 
 +++
 Muttertag rückt näher: am 13.05.2018 ist es soweit. Sie haben noch keine Geschenkidee? Denken Sie an Familink, der Online digitale Bilderrahmen, der mit der ganzen Familie vernetzt ist!
