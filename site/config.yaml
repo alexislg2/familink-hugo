@@ -22,9 +22,6 @@ menu:
     weight: 4
 params:
   about_us: "<p>Familink est une marque de AsWeShare</p>"
-  tribunal: Rouen
-  siren: 821282621
-  tva: FR54821282621
   address: |-
     <p><strong>369 Sente Sainte Venise</strong>
             <br>76230 Bois Guillaume
@@ -51,6 +48,7 @@ params:
     enable: true
     subtitle: ''
     title: Actualités
+  siren: 821282621
   style: turquoise
   testimonials:
     enable: true
@@ -59,6 +57,8 @@ params:
   topbar:
     enable: true
     text: Familink
+  tribunal: Rouen
+  tva: FR54821282621
 languages:
   en:
     weight: 1
@@ -161,11 +161,11 @@ languages:
                 <strong>FRANKREICH</strong>
               </p>
   carousel:
-      recent_posts:
-        enable: true
-        title: Nachrichten
-        subtitle: ''
-      testimonials:
-        enable: true
-        subtitle: ''
-        title: Testimonials
+    recent_posts:
+      enable: true
+      title: Nachrichten
+      subtitle: ''
+    testimonials:
+      enable: true
+      subtitle: ''
+      title: Testimonials
