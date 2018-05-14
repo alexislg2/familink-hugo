@@ -2,158 +2,156 @@
 categories = []
 date = "2018-05-14T11:24:02+02:00"
 tags = []
-title = "Conditions Générales de Vente (CGV)"
+title = "Sales Conditions"
 type = "page"
 
 +++
-## **1. INTRODUCTION ET IDENTITÉ DE LA SOCIÉTÉ**
+## **1. INTRODUCTION AND IDENTITY OF THE COMPANY**
 
-AsWeShare SAS est une société par actions simplifiée dont le siège est situé au 369 Sente Sainte Venise, 76230 Bois Guillaume, France. Numéro de SIREN au Registre du Commerce et des Sociétés de Rouen : 821 282 621. Numéro de TVA intracommunautaire : FR 54 821 282 621.
+AsWeShare SAS is a French registered corporation, located at 325 rue de la Mare des Champs, 76230 Bois Guillaume, France.
 
-## **2. CHAMP D’APPLICATION DES CONDITIONS GÉNÉRALES DE VENTE**
+## **2. SCOPE OF THE GENERAL SALES CONDITIONS**
 
-Les présentes Conditions générales de vente visent à (a) informer tout client potentiel des conditions générales selon lesquelles AsWeShare commercialise et livre les produits qui lui sont commandés (b) exposer les droits et obligations des parties dans le cadre de la vente des produits du vendeur au client. Elles s’appliquent, sans restriction ni réserve, à toutes les commandes de produits fournis par AsWeShare par l’intermédiaire de son site Web (www.familinkframe.com ou plus généralement de toute adresse URL ou tout site Web administré(e) par AsWeShare ou au sein du domaine familinkframe.com). Veuillez lire attentivement ces Conditions générales. AsWeShare se réserve le droit de modifier à tout moment ces Conditions générales de vente.
+These general sales conditions have for purposes (a) to inform any potential customer of the terms and conditions under which AsWeShare sells and delivers the products ordered and (b) to set out the rights and obligations of the parties within the framework of the sale of the products by the seller to the customer.
 
-## **3. ZONE GÉOGRAPHIQUE**
+They apply, without restriction or reservation, to all orders for products made available by AsWeSahre on its Internet website (located at www.familinkframe.com and more generally all URL and websites administered by AsWeSahre or within the familinkframe.com domain). Please read carefully these terms.
 
-Ces produits sont proposés dans la zone géographique suivante : les 27 pays de l’Union européenne ainsi que la Norvège, la Suisse, le Liechtenstein et l’Islande.
+AsWeSahre reserves the right to change these general sales conditions at any time.
 
-## **4. PRIX**
+## **3. GEOGRAPHY**
 
-Les prix des produits de AsWeShare sont libellés en euros, hors frais de livraison. Les frais de livraison sont indiqués avant l’enregistrement de la commande et font l’objet d’une facturation séparée. Leur montant dépend de la destination de la commande.Les prix comprennent la taxe sur la valeur ajoutée (TVA) au taux en vigueur le jour où la commande est passée. Tout changement de taux de TVA sera automatiquement répercuté sur le prix par AsWeShare sur son site Web. AsWeShare se réserve le droit de modifier à tout moment le prix des produits proposés sur son site Web. Votre facturation sera basée sur les prix affichés sur le site Web de AsWeShare au moment où votre commande est enregistrée.
+These products are offered for sale within the following geographic area: The United States of America, Canada and European Union. This geographic area excludes unincorporated territories of the United States.
 
-## **5. CARACTÉRISTIQUES DES PRODUITS**
+## **4. PRICES**
 
-En vertu de l’article L 111-1 du Code de la consommation, vous êtes autorisé, avant de passer commande, à consulter le site Web de Familink, www.familinkframe.com, pour prendre connaissance des caractéristiques de base des produits que vous souhaitez commander.Les photos, représentations graphiques ou descriptions des produits affichés sur le site Web sont fournies à des fins commerciales, mais à simple titre indicatif, et ne sont pas contractuelles. La responsabilité de AsWeShare ne pourra en aucun cas être engagée à ce titre.
+The prices of AsWeSahre products are indicated in Euros, excluding delivery charges. The delivery charges are shown prior to your order’s registration and are invoiced separately. Their amount depends upon the destination of the order.
 
-## **6. COMMANDE**
+AsWeSahre reserves the right to modify the prices of products offered on its website at any time. You will be charged the prices displayed on AsWeSahre website at the time your order is registered.
 
-Lorsque vous enregistrez une commande sur le site Web de AsWeShare, vous reconnaissez (a) que vous acceptez, sans restriction ni préjudice, ces Conditions générales de vente, (b) que vous en avez pris connaissance avant de passer commande, (c) que vous avez la pleine capacité juridique pour vous engager vis-à-vis de ces Conditions générales de vente, (d) que vous avez pris une décision en connaissance de cause et avez accepté sans préjudice les prix, volumes et quantités des produits proposés à la vente et commandés et (e) que les produits que vous avez achetés sur le site Internet de AsWeShare n’ont aucun lien avec vos activités professionnelles et sont réservés à votre usage strictement personnel.Toutes les commandes que vous passez sont soumises à l’approbation de AsWeShare. AsWeShare peut, quel qu’en soit le motif, rejeter votre commande sans vous devoir une quelconque contrepartie.Après la validation de votre commande par nos services, vous recevrez à l’adresse e-mail que vous avez indiquée au moment de la commande deux e-mails distincts : la confirmation de votre commande d’une part et votre facture d’autre part. Conservez une copie du contenu de ces messages.
+## **5. PRODUCT SPECIFICATIONS**
 
-## **7. RÉSERVE DE PROPRIÉTÉ**
+AsWeSahre shall not be committed in any way by the photographs, graphical representations or descriptions of products displayed on its website, and offered for purely indicative sale purposes.
 
-Les produits livrés demeurent la propriété de AsWeShare jusqu’au règlement de toutes les sommes dues au titre de la commande, c’est-à-dire le prix des produits et les taxes applicables.
+## **6. ORDER**
 
-## **8. PAIEMENT**
+When you register an order on the AsWeSahre website, you acknowledge (a) that you have accepted, without restriction or prejudice, these general sales conditions, (b) the prior knowledge of them before placing your order, (c) that you are legally able to commit yourself with regard to these general sales conditions, (d) that you have made an informed decision and have accepted without prejudice the prices, volumes and quantities of the products offered for sale and ordered and (e) that the products purchased on the AsWeSahre Internet website are not linked to your professional activities and are strictly for personal use.
 
-Les moyens de paiement suivants sont acceptés sur le site Web de AsWeShare : (a) Cartes bancaires (VISA, Mastercard, etc.) (b) Chèque, (c) Virement.
+All orders submitted by you are subject to acceptance by AsWeSahre. AsWeSahre may choose not to accept your order for any reason without liability to you.
 
-Le paiement doit être effectué au moment de la commande. Les sommes concernées ne sont ni des acomptes, ni des avances. Le montant intégral sera prélevé au moment de la confirmation de la commande.
+Once your order has been accepted by our services you will separately receive to the e-mail address provided when placing an order the order confirmation and the products’ invoice. You should keep a copy of this information.
 
-En utilisant nos systèmes de paiement, vous garantissez à AsWeShare que vous disposez des autorisations nécessaires pour régler votre commande.
+## **7. RESERVATION OF TITLE**
 
-En cas de non-réception d’une somme due ou d’irrégularité de paiement, AsWeShare se réserve le droit à tout moment, après avoir enregistré votre commande, de suspendre ou d’annuler la commande et/ou la livraison.
+The delivered products remain the property of AsWeSahre until full payment of all claims arising from the order, including the principal, costs and taxes.
 
-En cas de retard de paiement, des pénalités équivalentes aux taux d’intérêt légal de 5 % seront appliquées à l’ensemble du montant dû, dix jours après la date figurant sur la facture ou immédiatement après que AsWeShare aura été informé d’un rejet du paiement par la banque en cas d’utilisation d’un autre moyen de paiement.
+## **8. PAYMENT**
 
-Par mesure de protection contre les fraudes, AsWeShare se réserve le droit d’exiger une pièce d’identité pour tout paiement par carte bancaire. AsWeShare se réserve également le droit de refuser d’expédier des commandes aux clients qui refusent de fournir ces documents ou dont les informations sont à quelque égard suspectes.
+The following payment methods may be accepted by AsWeSahre website: (a) Credit Cards (VISA, Mastercard and others) (b) Paypal. Payment must be made when you place the order. Sums involved in the payment shall not be considered as down payments or advances. We will process the entire amount due along with the order confirmation.
 
-Dans le cadre de la lutte contre les fraudes sur Internet, les informations concernant vos commandes pourront être envoyées à des tiers pour vérification. Si une vérification complémentaire des informations relatives à la facturation s’avère nécessaire, le traitement de votre commande pourrait être retardé.Veuillez vous assurer que les informations que vous nous communiquez, notamment vos adresses de facturation et de livraison, ne comportent pas d’erreur afin d’éviter tout retard de traitement des commandes.
+By using our payment facilities, you guarantee to AsWeSahre that you have the necessary authorizations for the payment of your order.
 
-## **9. CHOIX DES PRODUITS**
+In the event of non-payment of any sum due or in the event of a payment irregularity, AsWeSahre reserves the right at any time after receiving your order to suspend or cancel your order and/or delivery.
 
-En acceptant les présentes Conditions générales de vente, vous déclarez avoir pris connaissance des produits de AsWeShare et de leurs caractéristiques. Avant de passer commande, il est de votre seule responsabilité (a) de choisir les produits faisant l’objet de votre commande, en fonction de vos besoins et (b) de juger de la compatibilité des produits commandés avec ceux que vous utilisez déjà.
+As a protection against fraud, AsWeSahre reserves the right to request ID documents for any credit card payment. AsWeSahre reserves the right to refuse to ship orders to customers refusing to make such information available or whose information is suspicious in anyway.
 
-Si vous considérez ne pas être suffisamment compétent pour en juger, vous pouvez si vous le souhaitez vous faire conseiller.
+Within the framework of the fight against Internet fraud, information concerning your order may be forwarded to third parties for verification. Your order may be delayed if additional verification of billing information is necessary.
 
-## **10. LIVRAISON**
+Please ensure that your billing and shipping addresses are exactly correct, to avoid delays in order processing. Incorrect information may cause a delay in the processing of your order.
 
-Les produits sont livrés à l’adresse de livraison que vous nous avez communiquée lors de votre commande. AsWeShare n’achemine pas de commande en dehors des pays mentionnés dans la clause « Zone géographique » des présentes Conditions générales de vente.
+## **9. CHOICE OF PRODUCTS**
 
-Pour assurer un service de qualité, nous faisons appel à une société de transport appropriée au regard de l’adresse de livraison fournie. Nos commandes peuvent être acheminées par des sociétés de transport comme UPS, Colissimo, Colis Privé, DPD ou BPost. Afin de suivre l’état de la livraison de votre commande, vous recevrez un e-mail contenant un numéro de suivi et la date de livraison prévue.
+By accepting those general sales conditions, you have taken knowledge of AsWeSahre products and their specifications. Before placing an order, you have under your sole responsibility (a) to choose the products that are the subject of your order, based on your needs and (b) to judge of the compatibility of the products ordered with those you use.
 
-À la réception de votre commande, nous vous demandons de bien vérifier l’état du colis, son emballage et son contenu, en présence de l’employé de la société de transport.
+If you consider that you do not have the competence needed to make such a judgment, it is exclusively up to you to seek advice.
 
-Si vous constatez la moindre anomalie, réelle ou supposée, vous devez : \* Respecter la procédure de la société de transport prévue en pareil cas (en particulier, signaler tout dommage ou formuler toute réclamation ou réserve) et refuser la marchandise en effectuant une déclaration immédiate auprès de l’employé de la société de transport, selon laquelle les produits ne sont pas en bon état. \* Informer AsWeShare de ces irrégularités en précisant le numéro de la commande.
+## **10. DELIVERY**
 
-## **11. DÉLAIS DE LIVRAISON**
+The products are delivered to the shipping address you provided during the order. AsWeSahre does not dispatch orders outside the territory mentioned in the section ‘Scope of the General Sales Conditions’ of these general sales conditions.
 
-Les produits en stock sont généralement livrés dans un délai compris entre 4 et 8 jours ouvrables. Les délais dépendent de la destination de la commande. Parce que nous avons à cœur de proposer un service de qualité pour assurer votre entière satisfaction, nous vous remercions de bien vouloir nous envoyer un e-mail en cas de retard de votre livraison par rapport à la date annoncée. Cela nous permettra d’ouvrir une enquête sur le traitement de votre colis par la société de transport concernée.
+Domestic orders are handled by FEDEX, USPS or similar operators.
 
-Une enquête concernant une société de transport peut prendre jusqu’à 21 jours ouvrables. Si, au cours de cette période, nous retrouvons vos produits, nous les expédierons immédiatement à l’adresse de livraison indiquée dans la commande.
+In order to monitor the progress of the delivery of your order, you will receive an email with a tracking number or an estimated delivery date.
 
-Dans le cas contraire, si nous ne parvenons pas à localiser vos produits au terme de cette période de 21 jours d’enquête, AsWeShare réexpédiera à ses frais les produits commandés.
+We ask you to be watchful when receiving your order concerning the state of the parcel’s packaging and its contents, in the presence of the carrier employee.
 
-Si les produits commandés ne sont plus disponibles, les dispositions de l’article « Disponibilité des produits » s’appliqueront. Si le client décide de commander d’autres produits à la place, les frais de livraison seront à sa charge (pour obtenir de plus amples informations, voir l’article « Droit de rétractation et de retour »).
+Should you have any doubts whatsoever about a possible anomaly, you must:\* Follow the carrier’s procedures (in particular, notify of any damages, claims, and reservations) and refuse to accept the merchandise by immediately making a declaration to the carrier worker that the products are not in good order. \* Inform AsWeSahre of the irregularities with the order number.
 
-Veuillez noter que ces délais de livraison sont donnés uniquement à titre indicatif. Vous ne pourrez pas réclamer de dommages-intérêts, retenir des sommes dues ou annuler votre commande quand bien même la livraison de vos produits interviendrait après la date annoncée. Néanmoins, en vertu de l’article L 121.20.3 du Code de la consommation, les produits commandés doivent être livrés au plus tard dans les 14 jours suivant l’enregistrement de la commande et le paiement intégral, faute de quoi vous pourrez annuler votre commande. Le cas échéant, les sommes versées vous seront remboursées sans délai, à l’exclusion de tout autre dédommagement.
+## **11. DELIVERY TIMES**
 
-## **12. PROBLÈMES DE QUALITÉ ET DE CONFORMITÉ**
+Products that are in-stock are usually delivered within 5 to 7 business days.
 
-Si vous estimez que les produits sont défectueux ou non conformes, veuillez adresser une réclamation à AsWeShare dans un délai de 7 jours à compter de la réception des produits. Reportez-vous à la clause Droit de rétractation et de retour pour en savoir plus. En cas de doute, vous pouvez nous contacter en envoyant un e-mail à [contact@familinkframe.com](mailto:contact@familinkframe.com)
+Because the quality of service we offer and your satisfaction is our priority, you should inform us by email if you experience a delivery delay in comparison to the initial delivery date. This will allow us to carry out an investigation with respect to the shipping company.
 
-Si vous ne respectez pas les délais prévus par la procédure de retour, vous ne pourrez plus formuler de réclamation pour non-conformité ou défaut, et les produits livrés seront réputés conformes et exempts de tout défaut apparent.
+Please note that these times are purely indicative. You shall not claim any damages, withhold any sums, or cancel the order in the event where the delivery takes longer than said time.
 
-## **13. DISPONIBILITÉ DES PRODUITS**
+Nevertheless, in accordance with the Federal Trade Commission, the products ordered shall be delivered within a maximum period of 30 days from the date when order has been registered and payment has been paid in full. You may cancel your order in the contrary event. In that case paid sums will be refunded to you without any delay, at the exclusion of any other compensation.
 
-Il n’est pas complètement impossible que AsWeShare ait confirmé votre commande, mais s’aperçoive par la suite que les produits ne sont plus disponibles et ne peuvent pas vous être livrés.
+## **12. QUALITY AND CONFORMITY PROBLEMS**
 
-Dans ce cas, conformément à l’article L138-1 du Code de la consommation, AsWeShare vous en informera dès que possible et pourra vous faire parvenir un produit de qualité et de prix équivalents. Les frais de livraison seront alors pris en charge par AsWeShare.
+May you judge the product to be defective or not in compliance, you shall address your claim to AsWeSahre within a period of 30 days from the receipt of the products. Please refer to the section ‘Right to cancel and return policy’ for further advices. In case of doubt you can contact: contact@familinkframe.com
 
-Si AsWeShare n’utilise pas ce dispositif, vous serez remboursé dans les meilleurs délais et, en tout état de cause, au plus tard dans les 30 jours suivant votre paiement.
+If you fail to respect given time periods and return procedure, you will lose the ability to make any claim of non-conformity or defect, and products delivered will be then considered as being in compliance and exempt from any apparent defect.
 
-## **14. LIMITES D’UTILISATION DES PRODUITS**
+## **13. PRODUCT AVAILABILITY**
 
-Le cadre photo Familink permet de recevoir des photos instantanément grâce à sa connectivité 3G ou Wi-Fi. Le cadre peut recevoir jusqu’à 10 photos par jour en 3G, et un nombre illimité en Wi-Fi.
+There may be occasions when AsWeSahre confirms your order but subsequently learns that it cannot supply the ordered product. In this case AsWeSahre will inform you as soon as possible and may suggest alternative products that might meet your needs. If you do not wish to order alternative products, AsWeSahre will cancel the order and refund your purchase price in full.
 
-## **15. DROIT DE RÉTRACTATION ET DE RETOUR**
+## **14. RIGHT TO CANCEL AND RETURN POLICY**
 
-Si vous souhaitez retourner un produit défectueux ou non conforme en vue d’effectuer un échange de produits ou de vous faire rembourser, ou si vous souhaitez exercer votre droit de rétractation et de retour, vous devez remplir l’ensemble des conditions ci-après et respecter scrupuleusement la procédure de rétractation et de retour selon les trois étapes exposées ici.
+Should you wish to return a defective or not in compliance product, with a view to exchanging it or seeking a refund, or should you wish to utilize your right to cancel and return, you must comply with all the following conditions and strict cancel-and-return procedure.
 
-La procédure de rétractation et de retour s’effectue en trois étapes.
+This cancel-and-return procedure is a 3 steps process.
 
-## **ÉTAPE 1 : DEMANDE DE RETOUR**
+**STEP 1: RETURN REQUEST**
 
-En vertu de l’article L121-21 du Code de la consommation, vous disposez de 14 jours francs à compter de la date de réception du produit commandé pour demander un retour du produit à vos propres frais. Pour demander un retour, veuillez svp nous envoyer par email le formulaire de rétractation ci-dessous dûment complété à l’adresse contact@familinkframe.com.com :
+You have 30 calendar days from the day of delivery of the product to request a product return. To request a return, you should send an email to contact@familinkframe.com mentioning:(a) Your order number(b) Your full contact details(c) The product references(d) A description of the problem in the case of a non-conformity/quality return
 
-A l’attention de AsWeShare, 369 Sente Sainte Venise, 76230 Bois Guillaume, [contact@familinkframe.com](mailto:contact@familinkframe.com) Je, \[votre nom\], vous notifie par la présente ma rétractation du contrat portant sur la vente du bien \[nom du produit\], commandé le \[date\] et reçu le \[date\] : Nom du consommateur : Adresse du consommateur : Signature du consommateur (uniquement en cas de notification du présent formulaire sur papier) F: Date
+**STEP 2: RETURN THE PRODUCT:**
 
-\:
+In answer to your return request, we will send you an email with a Return Merchandise Authorization (RMA) form and a return address.
 
-## **ÉTAPE 2 : RETOUR DU PRODUIT :**
+The return of the products must take place within seven business days of AsWeSahre issuing a RMA form. At the end of that period, AsWeSahre will not exchange or refund the products ordered.
 
-En réponse à votre demande de retour, nous vous enverrons un e-mail contenant l’adresse où nous renvoyer le produit.
+All costs and risks involved in the return of the products are at your own expense. It is strongly recommended that you return the products by receipted registered post to ensure its arrival at the given address. You understand that a parcel that is not sent by AsWeSahre cannot be taken under the responsibility of the latter. As the addresser, you are the only one in a position to ask the carrier to open an inquiry.
 
-Le retour des produits doit intervenir dans les 14 jours ouvrables qui suivent la livraison de votre commande. Passé ce délai, AsWeShare n’échangera pas, ni ne remboursera les produits commandés.
+All the following elements/conditions must be fulfilled for AsWeSahre to accept your return:(a) Your return must have AsWeSahre prior authorization and the Return Merchandise Authorization form, provided by the AsWeSahre Customer Service, printed out, filed and attached to the returned product.(b) You must respect the original state of the product (sealing, packaging, accessories, manual, etc)(c) You must provide attached invoice relating to the purchase. (d) Incorrect or excessive use, a deteriorated state of presentation, and in general any inappropriate use with respect to the purpose for which the product was meant, will void you right to return the product.(e) We will not refund or reimburse any product that has been damaged, or whose original packaging has been deteriorated. In particular, if the product’s packaging has been deteriorated during the return, AsWeSahre will not accept its reimbursement.
 
-Vous devrez supporter tous les frais et risques liés au retour du produit. Il est vivement recommandé de retourner tout produit par envoi en recommandé avec accusé de réception pour s’assurer qu’il est bien livré à l’adresse indiquée. Puisque l’expédition de votre colis sera prise en charge par une tierce entreprise, AsWeShare ne pourra naturellement pas en assumer la responsabilité. En tant qu’expéditeur, il incombe à vous seul de demander à la poste/la société de transport d’ouvrir une enquête sur le traitement de votre envoi.
+**STEP 3: REFUND**
 
-Pour que AsWeShare accepte votre retour de produit, toutes les conditions suivantes doivent être réunies :(a) Le retour doit avoir été préalablement autorisé par AsWeShare ; il doit s’accompagner du Formulaire de retour fourni par notre service clients, imprimé, rempli et joint au produit renvoyé.(b) Le produit doit être dans son état d’origine (adhésifs, emballage, accessoires, manuel, etc.).(c) Joignez la facture relative à votre achat.(d) Toute utilisation inadaptée ou abusive du produit, toute détérioration de son aspect et, de manière générale, tout usage inapproprié au regard des conditions d’utilisation normales prévue pour le produit concerné, rendront caduque votre droit de retour du produit.(e) Nous ne rembourserons pas un produit endommagé ou dont l’emballage d’origine a été détérioré. En particulier, si l’emballage du produit a été détérioré durant le retour, AsWeShare refusera tout remboursement.
+Upon receipt of the Product returned, AsWeSahre will confirm its good reception by sending you an e-mail.
 
-## **ÉTAPE 3 : REMBOURSEMENT**
+AsWeSahre reserves the right to decide in good faith if all of these conditions have been met.
 
-À la réception du produit renvoyé, AsWeShare en accusera bonne réception en vous adressant un e-mail. AsWeShare se réserve le droit de déterminer, en toute bonne foi, si l’ensemble des conditions ci-dessus ont été respectées.
+AsWeSahre acceptation of your return will result in a cash refund. This refund may be made by re-accrediting the payment method used for the original payment of the Product. It will take place within 30 days at most after issuing the receipt confirmation of the Product.
 
-L’acceptation de votre retour de produit par AsWeShare entraînera un remboursement de son prix. Ce remboursement pourra être effectué en créditant la somme voulue par le biais du moyen de paiement utilisé à l’achat du produit. Il interviendra dans un délai maximum de 14 jours à compter de la date à laquelle vous avez informé AsWeShare de de votre décision de vous rétracter, et ce sous réserve de réception par AsWeShare du produit faisant l’objet de la rétractation.
+## **15. LIABILITY AND LIMITED WARRANTY**
 
-## **16. RESPONSABILITÉ ET GARANTIE LIMITÉE**
+The products offered by AsWeSahre are in accordance with the current US legislation.
 
-Les produits proposés par AsWeShare sont conformes à la législation française en vigueur.
+AsWeSahre shall not be held liable for the total or partial non-performance or a delay in performance of the contract, that is caused by the product being out of stock, unavailable, or by a Force Majeure Event including, without limitation, severe disturbance in the security of the Internet, technical failures, unauthorized access and/or intrusions into the Website’s servers, strikes of all natures and computer or telephone failure.
 
-La responsabilité de AsWeShare ne pourra pas être engagée en cas d’inexécution totale ou partielle ou de retard d’exécution du contrat, si cela est imputable soit au consommateur, soit au fait, imprévisible et insurmontable, d’un tiers au contrat, soit à un cas de force majeure.
+AsWeSahre shall not be held liable for any indirect damages that might arise from the fact of purchasing the products.
 
-La responsabilité de AsWeShare ne pourra pas être engagée en cas de dommages pouvant résulter de l’achat des produits.
+## **15. PARTIAL INVALIDITY**
 
-Vous bénéficiez d’une garantie limitée contre les vices cachés.
+If any provision of these general sales conditions is found to be invalid by any court having competent jurisdiction or declared as such in accordance with a law or regulation, the invalidity of such provision shall not affect the validity of the remaining provisions, which shall remain in full force and effect.
 
-## **17. NULLITÉ PARTIELLE**
+## **16. NON-WAIVER**
 
-Si l’une quelconque des dispositions des présentes Conditions générales de vente venait à être déclarée nulle et non avenue par un tribunal compétent ou au regard d’une loi ou d’une législation, la nullité de ladite disposition n’aura pas d’incidence sur la validité des autres dispositions, qui resteront en vigueur et de plein effet.
+The fact that one of the parties does not insist that the failure by the other party to fulfill any obligation referred to in these general sales conditions be remedied shall not be construed as a waiver of the obligation in question in further occasions. No waiver shall be effective against AsWeSahre unless made by an authorized officer of AsWeSahre in writing, and no such waiver shall be construed as a waiver in any other or subsequent instance.
 
-## **18. NON-RENONCIATION**
+## **17. APPLICABLE LAW**
 
-Si l’une des parties n’insiste pas sur le fait qu’elle engagera un recours si l’autre partie ne remplit pas des obligations qui lui incombent au titre des présentes Conditions générales de vente, cela ne saurait être interprété comme une renonciation aux obligations dont il est question à de futures occasions. Aucune renonciation ne pourra être exercée à l’encontre de AsWeShare, sauf si c’est un responsable officiel de AsWeShare qui la rédige par écrit. En outre, ladite renonciation ne devra pas être interprétée comme une renonciation dans un cas de figure autre ou ultérieur.
+The sales of products by AsWeSahre are subject to the regulations concerning distance selling in force in the United States today. If you order is for export, you should check with the local authorities about the entry conditions and specific prohibitions applying for the ordered items. It is your responsibility to make the necessary declaration(s) and/or payment(s) to the appropriate authorities and/or officials in your respective country.
 
-## **19. DROIT EN VIGUEUR**
+AsWeSahre cannot be held liable if you do not respect the legislation of the country in which the items will be introduced.
 
-La vente de produits par AsWeShare est soumise aux réglementations de la vente à distance actuellement en vigueur en France. Si votre commande est destinée à l’exportation, vous êtes tenu de prendre connaissance, auprès des autorités locales, des conditions d’entrée des marchandises et des interdictions spécifiques susceptibles de s’appliquer aux produits commandés. Il vous incombe d’effectuer les déclarations et les paiements obligatoires auprès des autorités ou responsables compétents dans votre pays.
+## **18. PRIVACY**
 
-La responsabilité de AsWeShare ne pourra pas être engagée si vous ne respectez pas la législation du pays où vous utiliserez les produits.
+For more information about privacy you can refer to our Privacy policy, available on the Familinkframe website.
 
-Les tribunaux français auront compétence exclusive pour régler tout litige pouvant découler des présentes Conditions générales de vente.
+## **19. CUSTOMER SERVICE**
 
-## **20. CONFIDENTIALITÉ DES DONNÉES**
+The options for contacting Customer Service depend on the specific issue you’re having,
 
-Les informations collectées par AsWeShare lorsque vous passez commande sur son site Web sont indispensables au traitement de votre commande par AsWeShare et ses partenaires commerciaux. Le fichier contenant les informations enregistrées a fait l’objet d’une déclaration à la Commission nationale de l’informatique et des libertés (CNIL). Conformément à la Loi Informatique et Libertés n° 78-17 du 6 janvier 1978, vous avez un droit d’accès, de rectification, d’opposition et de demande de suppression des informations vous concernant détenues par AsWeShare.
-
-Pour de plus amples informations sur la confidentialité des données, veuillez consulter notre Politique de confidentialité, disponible sur le site Web de AsWeShare.
+## For any questions related to your product, please contact us at contact \[AT\] familinkframe \[DOT\] com
