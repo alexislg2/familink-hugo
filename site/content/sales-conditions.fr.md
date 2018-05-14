@@ -1,9 +1,9 @@
 +++
 categories = []
 date = "2018-05-14T11:24:02+02:00"
-draft = true
+draft = false
 tags = []
-title = "Politique de respect de la vie privée"
+title = "Conditions Générales de Vente (CGV)"
 
 +++
 ## **1. INTRODUCTION ET IDENTITÉ DE LA SOCIÉTÉ**
