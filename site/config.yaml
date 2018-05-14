@@ -5,6 +5,7 @@ googleAnalytics: ''
 languageCode: fr-FR
 paginate: 10
 theme: hugo-universal-theme
+enableRobotsTXT: true
 title: Familink
 menu:
   topbar:
@@ -111,6 +112,7 @@ languages:
   fr:
     weight: 2
     languageName: Français
+    title: Familink, cadre photo connecté 3G pour les seniors
     menu:
       main:
       - !ruby/hash:InsensitiveHash
