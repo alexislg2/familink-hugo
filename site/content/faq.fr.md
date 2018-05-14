@@ -18,6 +18,7 @@ Non. Familink est vendu avec une carte SIM internationale multi-opérateurs déj
 ### Peut-on être plusieurs à partager des photos sur un cadre ?
 
 Bien sûr ! Familink est fait pour toute la famille. Lorsque vous achetez un cadre, vous pouvez inviter vos amis, cousins, frères et soeurs à partager des photos sur le cadre. Il vous suffit pour cela de saisir leur adresse Email :
+
 ![](/img/faq/invite_fr.png)
 
 Ils pourront alors envoyer eux aussi des photos.
