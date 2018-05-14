@@ -1,9 +1,9 @@
 +++
 categories = []
 date = "2018-05-14T11:24:02+02:00"
-draft = false
 tags = []
 title = "Conditions Générales de Vente (CGV)"
+type = "page"
 
 +++
 ## **1. INTRODUCTION ET IDENTITÉ DE LA SOCIÉTÉ**
