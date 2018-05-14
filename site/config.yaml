@@ -139,7 +139,7 @@ languages:
         weight: 2
       - !ruby/hash:InsensitiveHash
         name: Boutique
-        url: "/shop"
+        url: "https://shop.familinkframe.com/produit/familink-2017-cadre-photo-3g/"
         weight: 1
       topbar:
       - !ruby/hash:InsensitiveHash
@@ -183,7 +183,7 @@ languages:
         weight: 3
       - !ruby/hash:InsensitiveHash
         name: Kaufen
-        url: "/de/shop"
+        url: "https://shop.familinkframe.com/de/product/familink-2018/"
         weight: 1
       topbar:
       - !ruby/hash:InsensitiveHash
