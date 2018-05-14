@@ -179,7 +179,7 @@ languages:
         url: https://web.familinkframe.com/en
         weight: 4
       - !ruby/hash:InsensitiveHash
-        name: kontakt
+        name: Kontakt
         url: "/de/kontakt/"
         weight: 3
       - !ruby/hash:InsensitiveHash

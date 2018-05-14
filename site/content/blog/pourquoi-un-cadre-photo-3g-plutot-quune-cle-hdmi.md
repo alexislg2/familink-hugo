@@ -14,19 +14,16 @@ Promis cet article n’est pas technique !
 
 A l’origine du projet Familink, nous cherchions une solution technique pour répondre à un besoin simple : pouvoir partager des photos simplement et instantanément avec les seniors. Ca n’est un secret pour personne : beaucoup de grand-parents ne sont pas experts en nouvelles technologies. Ils n’ont parfois pas de smartphone ou tablette, et souvent même pas Internet du tout. Bien sûr, ceci n’est qu’une généralité et de plus en plus de nonagénaires sont connectés et technophiles !
 
- 
 
 ## Un impératif : la simplicité
 
 Il était donc important d’avoir une solution extrêmement simple d’utilisation pour la personne qui reçoit les photos. Tellement simple qu’elle ne doit avoir aucune manipulation à effectuer. Ni pour l’installer (idéal pour un envoi du produit par la poste en cadeau), ni pour l’utiliser au quotidien.
 
- 
 
 ## Qu’est ce qu’une clé HDMI ?
 
 Une clé HDMI c’est un appareil qui fait la taille d’une grosse clé USB et qui se branche directement sur le téléviseur de la maison. C’est donc sur le papier une solution très intéressante : elle n’est pas encombrante et permet de bénéficier d’un très gros écran pour regarder des photos (l’écran du téléviseur).
 
- 
 
 ## ![](/uploads/2018/05/12/ez-cast-5g-wifi-display-recepteur-tv-pc-dongle-av-300x300.jpg)
 
