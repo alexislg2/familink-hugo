@@ -5,6 +5,7 @@ categories = []
 date = "2018-05-12T13:24:13Z"
 tags = []
 title = "Familink au CES 2018"
+description = "Familink a eu l'honneur de venir présenter son produit au CES 2018 de Las Vegas, en envoyant ses 2 co-fondateurs Jiri Kosla et Alexis Le Goff sur le plus grand salon d'électronique grand public du monde. L'occasion pour nous de présenter notre innovation au Monde. Evidemment notre produit n'est technologiquement pas révolutionnaire mais sa[...]"
 
 +++
 ![](/uploads/2018/05/12/CES-CTA-Logo-Combo-Blue-Text-Logo-Left_1147x399-768x267.png) 

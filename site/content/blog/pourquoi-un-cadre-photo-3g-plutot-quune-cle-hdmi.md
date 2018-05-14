@@ -5,6 +5,7 @@ categories = []
 date = "2018-05-12T13:23:03Z"
 tags = []
 title = "Pourquoi un cadre photo 3G plutôt qu’une clé HDMI ?"
+description = "Cet article explique pourquoi un cadre photo 3G est plus pertinent qu'une clé HDMI pour le partage de photo intergénérationnel.o"
 
 +++
 Promis cet article n’est pas technique !

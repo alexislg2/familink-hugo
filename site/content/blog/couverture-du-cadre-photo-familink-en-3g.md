@@ -5,6 +5,7 @@ categories = []
 date = "2018-05-12T13:31:51Z"
 tags = []
 title = "Couverture du cadre photo Familink en 3G"
+description = "Et si mon cadre Familink se retrouve dans une zone sans 3G ? Les cadres photo Familink utilisant une carte SIM 3G pour pouvoir recevoir les photos, il est légitime de se poser la question de la couverture. Les cadres Familink sont équipés d'une carte SIM 3G internationale et multi opérateurs. Cela signifie que les[...]"
 
 +++
 # **Et si mon cadre Familink se retrouve dans une zone sans 3G ?**
