@@ -3,9 +3,9 @@ aliases = ["/liste-des-zones-dans-lesquelles-fonctionne-familink/"]
 banner = "img/blog/thumnails/Familink-zones-2-250x250.png"
 categories = []
 date = "2018-05-07T14:02:45Z"
+description = "Voici la liste des pays dans lesquels Familink peut fonctionner. Familink est un cadre photo 3G avec SIM incluse qui se connecte automatiquement."
 tags = []
 title = "Liste des pays dans lesquels fonctionne Familink"
-description = "Voici la liste des pays dans lesquels Familink peut fonctionner. Familink est un cadre photo 3G avec SIM incluse qui se connecte automatiquement."
 
 +++
 ![liste pays Familink](/img/blog/map.png)

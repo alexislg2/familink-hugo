@@ -3,9 +3,9 @@ aliases = ["/un-cadre-photo-3g-avec-une-adresse-email/"]
 banner = "img/blog/thumnails/send_email-250x250.jpg"
 categories = []
 date = "2018-05-12T13:29:36Z"
+description = "Familink vous propose de donner une adresse Email à votre cadre photo. Le partage de photo est ainsi encore plus simple !"
 tags = []
 title = "Un cadre photo 3G avec une adresse Email"
-description = "Familink vous propose de donner une adresse Email à votre cadre photo. Le partage de photo est ainsi encore plus simple !"
 
 +++
 #### En plus de l’interface web et mobile pour le partage de photos, Familink propose de créer une adresse Email dédiée pour le cadre photo afin de faciliter encore plus le partage. Familink, un cadre photo 3G avec une adresse Email.

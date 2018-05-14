@@ -3,9 +3,9 @@ aliases = ["/familink-une-simplicite-poussee-lextreme/"]
 banner = "img/blog/thumnails/iStock_14508847_LARGE-250x250.jpg"
 categories = []
 date = "2018-05-12T13:30:58Z"
+description = "Familink est un cadre photo 3G à destination des seniors et de tous ceux qui n'ont pas Internet ou ne veulent pas s'en servir."
 tags = []
 title = "Une simplicité poussée à l’extrême"
-description = "Familink est un cadre photo 3G à destination des seniors et de tous ceux qui n'ont pas Internet ou ne veulent pas s'en servir."
 
 +++
 #### **Familink est un cadre photo 3G à destination des seniors et de tous ceux qui n’ont pas Internet ou ne veulent pas s’en servir. Il a été pensé pour tous, sans limite d’âge grâce à son incroyable simplicité.**
