@@ -14,5 +14,9 @@
   translation: "Siren : "
 - id: "tva"
   translation: "TVA : "
+- id: "cgv"
+  translation: "CGV"
+- id: "privacy-policy"
+  translation: "Respect de la vie Privée"
 
 

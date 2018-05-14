@@ -6,3 +6,7 @@
   translation: "Add to Cart"
 - id: "langue"
   translation: "Language"
+- id: "cgv"
+  translation: "Sales Conditions"
+- id: "privacy-policy"
+  translation: "Privacy Policy"
