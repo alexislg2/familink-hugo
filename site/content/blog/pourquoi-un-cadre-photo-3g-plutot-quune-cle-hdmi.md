@@ -3,7 +3,7 @@ aliases = ["/pourquoi-un-cadre-photo-3g-plutot-quune-cle-hdmi/"]
 banner = "img/blog/thumnails/ez-cast-5g-wifi-display-recepteur-tv-pc-dongle-av-250x250.jpg"
 categories = []
 date = "2018-05-12T13:23:03Z"
-description = "Cet article explique pourquoi un cadre photo 3G est plus pertinent qu'une clé HDMI pour le partage de photo intergénérationnel.o"
+description = "Cet article explique pourquoi un cadre photo 3G est plus pertinent qu'une clé HDMI pour le partage de photo intergénérationnel."
 tags = []
 title = "Pourquoi un cadre photo 3G plutôt qu’une clé HDMI ?"
 
