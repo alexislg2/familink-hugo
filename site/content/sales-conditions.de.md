@@ -2,7 +2,7 @@
 categories = []
 date = "2018-05-14T11:24:02+02:00"
 tags = []
-title = "Sales Conditions"
+title = "Allgemeinen Geschäftsbedingungen"
 type = "page"
 
 +++

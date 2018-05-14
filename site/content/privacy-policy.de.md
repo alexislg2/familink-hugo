@@ -2,7 +2,7 @@
 categories = []
 date = "2018-05-14T11:29:35+02:00"
 tags = []
-title = "Privacy Policy"
+title = "Datenschutz-Bestimmungen"
 type = "page"
 
 +++

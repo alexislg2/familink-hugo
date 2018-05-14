@@ -8,3 +8,10 @@
   translation: "Handelsregister-Nr.: "
 - id: "tva"
   translation: "Ust.-Id. Nummer: "
+- id: "cgv"
+  translation: "Allgemeinen Geschäftsbedingungen"
+- id: "privacy-policy"
+  translation: "Datenschutz-Bestimmungen"
+
+
+
