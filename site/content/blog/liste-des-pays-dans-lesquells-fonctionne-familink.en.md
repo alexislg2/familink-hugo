@@ -1,6 +1,6 @@
 +++
 aliases = ["en/list-world-areas-familink-can-installed/"]
-banner = "img/blog/map.png"
+banner = "img/blog/thumnails/Familink-zones-2-250x250.png"
 categories = []
 date = "2018-05-07T14:02:45Z"
 tags = []

@@ -1,6 +1,6 @@
 +++
 aliases = ["/pourquoi-un-cadre-photo-3g-plutot-quune-cle-hdmi/"]
-banner = "uploads/2018/05/12/ez-cast-5g-wifi-display-recepteur-tv-pc-dongle-av-300x300.jpg"
+banner = "img/blog/thumnails/ez-cast-5g-wifi-display-recepteur-tv-pc-dongle-av-250x250.jpg"
 categories = []
 date = "2018-05-12T13:23:03Z"
 tags = []

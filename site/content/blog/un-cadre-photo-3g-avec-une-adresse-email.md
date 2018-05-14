@@ -1,6 +1,6 @@
 +++
 aliases = ["/un-cadre-photo-3g-avec-une-adresse-email/"]
-banner = "uploads/2018/05/12/send_email-768x467.jpg"
+banner = "img/blog/thumnails/send_email-250x250.jpg"
 categories = []
 date = "2018-05-12T13:29:36Z"
 tags = []

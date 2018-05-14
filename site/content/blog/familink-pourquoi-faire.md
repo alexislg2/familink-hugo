@@ -1,6 +1,6 @@
 +++
 aliases = ["familink-pourquoi-faire/"]
-banner = "uploads/2018/05/12/bureau-768x425.jpg"
+banner = "img/blog/thumnails/sur-secretaire-noir_titres_livres_changes_16_9-250x250.jpg"
 categories = []
 date = "2018-05-12T13:19:33Z"
 tags = []
