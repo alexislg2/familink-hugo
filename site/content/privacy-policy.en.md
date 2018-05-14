@@ -1,9 +1,9 @@
 +++
 categories = []
 date = "2018-05-14T11:29:35+02:00"
-draft = false
 tags = []
 title = "Politique de respect de la vie privée"
+type = "page"
 
 +++
 Les présentes conditions générales ont pour objet de définir les conditions d’utilisation du site web web.familinkframe.com développé et géré par la société AsWeShare (ci-après « ASWESHARE »), ainsi que l’application mobile Familink, par ses utilisateurs (ci-après les «Utilisateurs »).
