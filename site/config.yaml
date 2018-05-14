@@ -101,6 +101,7 @@ languages:
         url: mailto:contact@familinkframe.com
         weight: 4
     params:
+      about_us: "<p>Familink is an AsWeShare trademark</p>"
       recent_posts:
         enable: true
         title: Latest Posts

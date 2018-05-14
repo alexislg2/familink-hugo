@@ -10,3 +10,11 @@
   translation: "Sales Conditions"
 - id: "privacy-policy"
   translation: "Privacy Policy"
+- id: "siren"
+  translation: "SIREN reg #: "
+- id: "tva"
+  translation: "VAT #: "
+- id: "commercialRegister"
+  translation: "Commercial Register: "
+
+

@@ -9,11 +9,11 @@
 
             <hr class="hidden-md hidden-lg hidden-sm">
 
-            <h4><a href="{{ "blog" | absLangURL }}">Blog</h4>
+            <a href="{{ "blog" | absLangURL }}"><h4>Blog</h4></a>
 
-            <h4><a href="{{ "sales-conditions" | absLangURL }}">{{ i18n "cgv" }}</h4>
+            <a href="{{ "sales-conditions" | absLangURL }}"><h4>{{ i18n "cgv" }}</h4></a>
 
-            <h4><a href="{{ "privacy-policy" | absLangURL }}">{{ i18n "privacy-policy" }}</h4>
+            <a href="{{ "privacy-policy" | absLangURL }}"><h4>{{ i18n "privacy-policy" }}</h4></a>
 
         </div>
         <!-- /.col-md-4 -->
@@ -88,10 +88,9 @@ _________________________________________________________ -->
             <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}</p>
             {{ end }}
             <p class="pull-right">
-              {{ i18n "templateBy" }} <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.
-              <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
+              <!-- {{ i18n "templateBy" }} <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.
 
-              {{ i18n "portedBy" }} <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>
+              {{ i18n "portedBy" }} <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a> -->
             </p>
         </div>
     </div>
