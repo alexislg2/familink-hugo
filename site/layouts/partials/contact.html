@@ -1,3 +1,34 @@
+<script type="text/javascript">
+    $(document).ready(function() {
+
+        $("#submit").click(function(e) {
+            e.preventDefault();
+
+            var name = $("#name").val(),
+                email = $("#email").val(),
+                message = $("#message").val();
+
+            $.ajax({
+                type: "POST",
+                url: 'https://jcbtf7kwo4.execute-api.eu-west-1.amazonaws.com/prod/',
+                contentType: 'application/json',
+                data: JSON.stringify({
+                    'name': name,
+                    'email': email,
+                    'message': message
+                }),
+                success: function(res){
+                    $('#form-response').text('Email was sent.');
+                },
+                error: function(){
+                    $('#form-response').text('Error.');
+                }
+            });
+
+        })
+
+    });
+</script>
 <div class="container" id="contact">
 
     <div class="row">
@@ -15,7 +46,7 @@
 
                 <div id="contact-message"></div>
 
-                <form class="contact-form" method="post" action="https://formspree.io/{{ .Site.Params.email }}">
+                 <form class="contact-form">
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
@@ -26,7 +57,7 @@
                         <div class="col-sm-6">
                             <div class="form-group">
                                 <label for="email">{{ i18n "contactMail" }}</label>
-                                <input type="email" class="form-control" name="_replyto" id="email" required>
+                                <input type="email" class="form-control" id="email" required>
                             </div>
                         </div>
                         <div class="col-sm-12">
@@ -39,12 +70,12 @@
                         <div class="col-sm-12 text-center">
                           <input type="hidden" name="_language" value="{{ .Site.Language.Lang }}" />
                           <input type="text" name="_gotcha" style="display:none" />
-                          <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i>{{ i18n "contactSend" }}</button>
+                          <button id="submit" type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i>{{ i18n "contactSend" }}</button>
 
                         </div>
                     </div>
-                    <!-- /.row -->
                 </form>
+                <div id="form-response"></div>
 
                 {{ end }}
 
