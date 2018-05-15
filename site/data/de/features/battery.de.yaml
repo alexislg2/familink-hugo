@@ -2,5 +2,5 @@
 weight: 3
 name: Autonom
 icon: fa fa-battery-full
-description: Familink est prévu pour être branché sur secteur en permancence mais
-  une batterue lui permet de tenir jusqu'à 3 heures débranché, écran allumé.
+description: Familink kann permanent an der Stromversorgung angeschlossen bleiben.
+  Dank seiner Batterie kann er aber auch 3 Stunden ohne Stromversorgung funktionieren.
