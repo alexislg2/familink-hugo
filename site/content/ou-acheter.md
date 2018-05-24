@@ -10,4 +10,4 @@ Vous souhaitez acheter un cadre photo 3G Familink pour pouvoir envoyer des photo
 * Dans l’une des 7000 agences CIC ou Crédit Mutuel en France. Attention toutefois : les cadres achetés chez Crédit Mutul ou CIC ne fonctionnent qu’en France en 3G. Attention, le cadre est référencé dans la catalogue sous le nom **AsWeShare Familink**
 * Et pour les Rouennais (Familink est basé à Rouen) : à la  [Pharmacie Decrouez](http://www.pharmacie-decrouez.fr/), 8 Rue Bourg l’Abbé. Ils disposent d’un stock de Familink. Paiement par chèques uniquement
 
-Vous êtes distributeur ? Vous voulez distribuer notre produit,  \[contactez nous !\]({{< relref "contact" >}})
+Vous êtes distributeur ? Vous voulez distribuer notre produit,  [contactez nous !]({{< relref "contact" >}})
