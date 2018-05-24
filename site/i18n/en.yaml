@@ -16,5 +16,9 @@
   translation: "VAT #: "
 - id: "commercialRegister"
   translation: "Commercial Register: "
+- id: "send_success"
+  translation: "Email sent"
+- id: "error"
+  translation: "An error occured. Try again later"
 
 

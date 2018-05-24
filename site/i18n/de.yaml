@@ -12,6 +12,7 @@
   translation: "Allgemeinen Geschäftsbedingungen"
 - id: "privacy-policy"
   translation: "Datenschutz-Bestimmungen"
-
-
-
+- id: "send_success"
+  translation: "Nachricht wurde erfolgreich gesendet."
+- id: "error"
+  translation: "Ein Fehler ist aufgetreten"

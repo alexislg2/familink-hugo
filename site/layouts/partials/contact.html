@@ -8,6 +8,8 @@
                 email = $("#email").val(),
                 message = $("#message").val();
 
+            $('#success').hide();
+            $('#error').hide();
             $.ajax({
                 type: "POST",
                 url: 'https://jcbtf7kwo4.execute-api.eu-west-1.amazonaws.com/prod/',
@@ -18,21 +20,24 @@
                     'message': message
                 }),
                 success: function(res){
-                    $('#form-response').text('Email was sent.');
+                    $('#success').show();
+                    $("#name").val('');
+                    $("#email").val('');
+                    $("#message").val('');
                 },
                 error: function(){
-                    $('#form-response').text('Error.');
+                    $('#form-response').text('');
+                    $('#error').show();
                 }
             });
-
         })
-
     });
 </script>
 <div class="container" id="contact">
 
     <div class="row">
         <div class="col-md-8">
+
 
             <section>
 
@@ -42,6 +47,14 @@
 
                 <div class="heading">
                   <h3>{{ i18n "contactForm" }}</h3>
+                </div>
+
+                <div class="alert alert-success" id="success" style="display:none;">
+                  {{ i18n "send_success" }}
+                </div>
+
+                <div class="alert alert-danger" id="error" style="display:none;">
+                  {{ i18n "error" }}
                 </div>
 
                 <div id="contact-message"></div>

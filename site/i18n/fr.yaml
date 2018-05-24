@@ -18,5 +18,9 @@
   translation: "CGV"
 - id: "privacy-policy"
   translation: "Respect de la vie Privée"
+- id: "send_success"
+  translation: "Message envoyé avec succès"
+- id: "error"
+  translation: "Une erreur est survenue"
 
 
