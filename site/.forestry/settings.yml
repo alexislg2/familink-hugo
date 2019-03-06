@@ -15,11 +15,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: site/content/landing
-  label: Landing
-  create: all
-  match: "**/*"
-- type: directory
   path: site/content
   label: Pages
   create: all
