@@ -125,5 +125,14 @@ Wählen Sie ein Bild per Drag-and-Drop aus oder klicken Sie auf den hierfür vor
 
 ![](/img/faq/Screenshot-from-2017-03-09-10-46-03.png)
 
-Und das war alles: das Bild wurde auf den Bilderrahmen übertragen. Sollte der Rahmen ausgeschaltet sein, wird das Bild erhalten, sobald er online geht.
+Sie können auch Bilder **mit Facebook Messenger** verschicken!
 
+Wie geht es?
+
+Um Bilder auf den Bilderrahmen mit Facebook Messenger zu verschicken müssen Sie folgendes tun :
+
+1. Suchen Sie den Messenger-Code des Bilderrahmen raus. Loggen Sie sich dafür auf der Webbasierte Schnittstelle ein. Wählen Sie den gewünschten Rahmen aus. Dort finden Sie den Messenger-Code: (hier in dem Beispiel LHOA-QBOQ):
+2. Gehen Sie auf unsere Facebook-Seite (am einfachsten können Sie auch unsere Seite liken) und schreiben Sie uns eine Nachricht:
+3. Folgen Sie die Hinweise!
+
+Und das war alles: das Bild wurde auf den Bilderrahmen übertragen. Sollte der Rahmen ausgeschaltet sein, wird das Bild erhalten, sobald er online geht.
