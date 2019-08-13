@@ -136,3 +136,18 @@ Um Bilder auf den Bilderrahmen mit Facebook Messenger zu verschicken müssen Sie
 3. Folgen Sie die Hinweise!
 
 Und das war alles: das Bild wurde auf den Bilderrahmen übertragen. Sollte der Rahmen ausgeschaltet sein, wird das Bild erhalten, sobald er online geht.
+
+### Wie kann ich Familink weiterempfehlen?
+
+Du bist begeistert von Familink und möchtest Deine Freude mit anderen teilen?
+
+Dann kannst Du jetzt ganz einfach Deinen Freunden eine Freude machen und dabei wird Dein Abonnement für die SIM-Karte um **3 Monate kostenlos verlängert**!
+
+Schau mal auf unser [_Familink Portal _](https://web.familinkframe.com/fr/#/devices?showprofile=true)nach Deinem Gutscheincode nach. Kopiere diesen Code und teile es mit Deinen Freunde.
+
+Für jeden eingelösten Gutscheincode (der Code muss bei der Aktivierung des Rahmens angegeben werden) gilt:
+
+* Dein Abonnement für die SIM-Karte wird kostenlos um 3 Monate verlängert. Und nicht nur für einen sondern für ALLE deiner Rahmen!
+* Dein/e Freund/in erhält auch weitere 3 Monate kostenloses Abonnement.
+
+Noch Fragen? Nimm gerne Kontakt mit uns auf! 
